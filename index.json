@@ -893,6 +893,10 @@
       "sha1": "86cbdb20229668233b7f6382c4da6377ef247c8f"
     },
     {
+      "path": "overrides/config/deathfinder-client.toml",
+      "sha1": "a5a6cd4cf42d2433711686ed85506a15eed8b931"
+    },
+    {
       "path": "overrides/config/enchanting_overhauled.properties",
       "sha1": "4ed7e65d17f0f9f18381beba875ed59fe911d16f"
     },
@@ -1606,7 +1610,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "3d4ce4e0112e8dec5b9c4af5437d4945bd5a1648"
+      "sha1": "2189b05ef166d2e6f780c60e5d9291ef6e3255a2"
     },
     {
       "path": "overrides/ponders_watched_azimuth.json",

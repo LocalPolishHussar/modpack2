@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:91.236.6.80
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -75,9 +75,9 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
