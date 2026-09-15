@@ -175,7 +175,7 @@ _version = 4
 			# is disabled. 
 			# This is known to cause out-of-memory issues 
 			# and is better solved with a concurrent garbage collector.
-			showExplicitGcDisabledWarning = true
+			showExplicitGcDisabledWarning = false
 			#
 			# If enabled, a chat message will be displayed when DH has too many chunks 
 			# queued for updating.
@@ -771,7 +771,7 @@ _version = 4
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 200
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
