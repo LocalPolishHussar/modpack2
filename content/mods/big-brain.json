@@ -1,0 +1,23 @@
+{
+  "name": "Big Brain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jRRBLkzK",
+      "slug": "big-brain",
+      "versionId": "5VqgzLg9",
+      "versionNumber": "2.2.8",
+      "filename": "bigbrain-2.2.8-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jRRBLkzK/versions/5VqgzLg9/bigbrain-2.2.8-1.21.1.jar",
+      "sha1": "49b6ff4517aacb1eac7fe909f38adddb2f72e273",
+      "sha512": "be2082f3bda9453d7a04f6bd90865b941bc97e145b193ce0939b6fa738bdd895929b64e9fa33d80b2e0650b149a855848fc5cf85b73f56511ab7506f34664a64",
+      "fileSize": 87020
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

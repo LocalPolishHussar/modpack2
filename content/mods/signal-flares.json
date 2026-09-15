@@ -1,0 +1,22 @@
+{
+  "name": "Signal Flares",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1166889",
+      "slug": "signal-flares",
+      "versionId": "8698222",
+      "versionNumber": "signal_flares-2.0.1-neoforge-1.21.1.jar",
+      "filename": "signal_flares-2.0.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8698/222/signal_flares-2.0.1-neoforge-1.21.1.jar",
+      "sha1": "816e3807df49e8e43d5f16eb4fb76a2fd7af70ee",
+      "fileSize": 1113817
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "IronSable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WB9oQ4EQ",
+      "slug": "ironsable",
+      "versionId": "YygBtBBY",
+      "versionNumber": "1.2.0",
+      "filename": "ironsable-1.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WB9oQ4EQ/versions/YygBtBBY/ironsable-1.2.0.jar",
+      "sha1": "6ea9ce03144ec741a1e8d322f06985366d9ecc9e",
+      "sha512": "af0b310c13ab50736578936f2459d5fcabe8f4afcfc9956a7308dc575d756052b34a1aee520aeec7dc41fcf91ea401d6de6c4a39bf36028f7336c08106405d49",
+      "fileSize": 130973
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

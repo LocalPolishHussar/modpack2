@@ -1,0 +1,23 @@
+{
+  "name": "Death Finder",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wNxIBREV",
+      "slug": "death-finder",
+      "versionId": "5GzZQzoI",
+      "versionNumber": "21.1.2",
+      "filename": "DeathFinder-v21.1.2-mc1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wNxIBREV/versions/5GzZQzoI/DeathFinder-v21.1.2-mc1.21.1-NeoForge.jar",
+      "sha1": "4a38232339291f074f4071abd705dba5ede5fbc5",
+      "sha512": "7bee1fef5ae2f64b512ebfb9bc103a4c6e1a8b64c5ba19fea235de8d6bd808fdad34b6fcb9b40d0ff025bb03e816589ab64ede439b2e795d226c2073b4a68e15",
+      "fileSize": 87839
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

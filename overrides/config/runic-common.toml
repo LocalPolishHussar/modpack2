@@ -1,0 +1,522 @@
+[enchant_blacklist]
+	#When true, all enchantments are treated as blacklisted
+	disable_all = false
+	#Enchantments disabled entirely
+	blacklisted = []
+
+[loot]
+	#Enchantment ids exempt from RUNIC's enchantment blacklist and stripping. Their enchanted books are also kept by RUNIC's loot filter; books with any unlisted enchantment are still removed.
+	enchanted_book_whitelist = []
+	#When true, RUNIC loot injection and enchanted-book stripping are disabled
+	disable_runic_loot = false
+	removed_etchings_enabled = true
+	# Default: 60
+	# Range: > 0
+	common_rune_weight = 60
+	# Default: 35
+	# Range: > 0
+	uncommon_rune_weight = 35
+	# Default: 18
+	# Range: > 0
+	rare_rune_weight = 18
+	# Default: 8
+	# Range: > 0
+	epic_rune_weight = 8
+	# Default: 3
+	# Range: > 0
+	legendary_rune_weight = 3
+	# Default: 1
+	# Range: > 0
+	mythic_rune_weight = 1
+	# Default: 4
+	# Range: > 0
+	loot_only_etching_weight = 4
+	# Default: 2
+	# Range: > 0
+	relic_weight = 2
+
+[mechanics]
+	#When true, rune slots are ignored and no longer limit applying runes or etchings
+	disable_rune_slots = false
+	#When true, stat rune application is no longer clamped by stat caps
+	disable_stat_caps = false
+
+[crafting]
+	#When true, the etching table cannot craft etchings or inscriptions
+	disable_etching_crafting = false
+
+[enhancement_blacklist]
+	#Disabled runic stat ids
+	stats = []
+
+[update_5]
+	#Base chance for compatible enhancements to combine into a synergy
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	base_synergy_chance = 0.2
+	#Additional synergy chance per Synergy Potential level
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	synergy_potential_bonus = 0.2
+	#Maximum Synergy Potential level an item can store
+	# Default: 3
+	# Range: > 0
+	max_synergy_potential = 3
+	#Maximum final synergy chance
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	max_synergy_chance = 0.8
+	# Default: 1
+	# Range: > 0
+	common_corruption = 1
+	# Default: 1
+	# Range: > 0
+	uncommon_corruption = 1
+	# Default: 2
+	# Range: > 0
+	rare_corruption = 2
+	# Default: 2
+	# Range: > 0
+	epic_corruption = 2
+	# Default: 3
+	# Range: > 0
+	legendary_corruption = 3
+	# Default: 20
+	# Range: > 0
+	mythic_corruption = 20
+	# Default: 1
+	# Range: > 0
+	etching_corruption = 1
+	# Default: 5
+	# Range: > 0
+	successful_synergy_corruption = 5
+	# Default: 2
+	# Range: > 0
+	failed_synergy_corruption = 2
+	# Default: 5
+	# Range: > 0
+	fractured_extra_failure_corruption = 5
+	# Default: 6
+	# Range: > 0
+	resonance_inscription_corruption = 6
+	#Corruption value at which an item becomes Exhausted
+	# Default: 100
+	# Range: > 1
+	exhausted_corruption_threshold = 100
+	# Default: 8
+	# Range: > 0
+	expansion_inscription_corruption = 8
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	expansion_inscription_max_durability_loss_percent = 10.0
+	# Default: 10
+	# Range: > 0
+	restoration_inscription_corruption_reduction = 10
+	# Default: 15.0
+	# Range: 0.0 ~ 100.0
+	restoration_inscription_max_durability_loss_percent = 15.0
+	restoration_inscription_adds_brittle = true
+	# Default: 10
+	# Range: > 0
+	nullification_inscription_corruption = 10
+	nullification_inscription_removes_slot = true
+	nullification_inscription_can_remove_synergies = true
+	# Default: 5
+	# Range: > 0
+	upgrade_inscription_corruption = 5
+	# Default: 5
+	# Range: > 0
+	upgrade_inscription_extra_corruption_if_overforged = 5
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	upgrade_inscription_stat_increase_percent = 10.0
+	# Default: 3
+	# Range: > 0
+	reroll_inscription_corruption = 3
+	reroll_inscription_add_unstable_on_higher_roll = true
+	# Default: 12
+	# Range: > 0
+	wild_inscription_corruption = 12
+	wild_inscription_can_mutate_synergies = false
+	# Default: 10
+	# Range: > 0
+	cursed_inscription_corruption = 10
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	cursed_inscription_success_chance = 0.5
+	# Default: 25.0
+	# Range: 0.0 ~ 1000.0
+	cursed_inscription_overupgrade_percent = 25.0
+	cursed_inscription_failure_adds_brittle = true
+	# Default: 8
+	# Range: > 0
+	extraction_inscription_corruption = 8
+	extraction_inscription_can_extract_synergies = false
+	extraction_inscription_can_extract_mythic = false
+	# Default: 10
+	# Range: > 0
+	purification_inscription_corruption = 10
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	purification_inscription_durability_loss_chance = 0.5
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	purification_inscription_max_durability_loss_percent = 10.0
+	# Default: 5
+	# Range: > 0
+	stabilization_inscription_corruption = 5
+	stabilization_inscription_adds_brittle = true
+	# Default: 5
+	# Range: > 0
+	tempering_inscription_corruption = 5
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	tempering_inscription_durability_loss_reduction_percent = 10.0
+	# Default: 10
+	# Range: > 0
+	relic_socket_inscription_corruption = 10
+	relic_socket_inscription_adds_brittle = true
+	relic_loot_injection_enabled = true
+
+	[update_5.relic]
+		# Default: 10
+		# Range: > 0
+		default_corruption = 10
+		# Default: 20.0
+		# Range: 0.0 ~ 1000.0
+		default_durability_use_increase_percent = 20.0
+		# Default: 4
+		# Range: > 0
+		full_set_required_count = 4
+		enable_set_bonuses = true
+		effects_require_equipped = true
+
+		[update_5.relic.dragon_heart]
+			# Default: 10
+			# Range: > 0
+			corruption = 10
+			# Default: 20.0
+			# Range: 0.0 ~ 1000.0
+			durability_use_increase_percent = 20.0
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			fire_damage_bonus_percent = 10.0
+			# Default: 2
+			# Range: > 0
+			burn_duration_bonus_seconds = 2
+			# Default: 25.0
+			# Range: 0.0 ~ 1000.0
+			full_set_fire_damage_bonus_percent = 25.0
+			# Default: 0.15
+			# Range: 0.0 ~ 1.0
+			full_set_ignite_aura_chance = 0.15
+			# Default: 4.0
+			# Range: 0.0 ~ 128.0
+			full_set_ignite_aura_radius = 4.0
+
+		[update_5.relic.elder_guardians_eye]
+			# Default: 10
+			# Range: > 0
+			corruption = 10
+			# Default: 20.0
+			# Range: 0.0 ~ 1000.0
+			durability_use_increase_percent = 20.0
+			# Default: 15.0
+			# Range: 0.0 ~ 1000.0
+			underwater_damage_bonus_percent = 15.0
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			mining_speed_bonus_percent = 10.0
+			# Default: 0.2
+			# Range: 0.0 ~ 1.0
+			full_set_slow_chance = 0.2
+			# Default: 60
+			# Range: > 0
+			full_set_slow_duration_ticks = 60
+
+		[update_5.relic.wither_charge]
+			# Default: 12
+			# Range: > 0
+			corruption = 12
+			# Default: 25.0
+			# Range: 0.0 ~ 1000.0
+			durability_use_increase_percent = 25.0
+			# Default: 20.0
+			# Range: 0.0 ~ 1000.0
+			wither_duration_bonus_percent = 20.0
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			damage_to_withered_bonus_percent = 10.0
+			# Default: 0.15
+			# Range: 0.0 ~ 1.0
+			full_set_wither_pulse_chance = 0.15
+			# Default: 4.0
+			# Range: 0.0 ~ 128.0
+			full_set_wither_pulse_radius = 4.0
+
+		[update_5.relic.wardens_soul]
+			# Default: 15
+			# Range: > 0
+			corruption = 15
+			# Default: 35.0
+			# Range: 0.0 ~ 1000.0
+			durability_use_increase_percent = 35.0
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			boss_damage_bonus_percent = 10.0
+			# Default: 0.2
+			# Range: 0.0 ~ 1.0
+			heavy_damage_pulse_chance = 0.2
+			# Default: 6.0
+			# Range: 0.0 ~ 1000.0
+			full_set_sonic_pulse_damage = 6.0
+			# Default: 300
+			# Range: > 0
+			full_set_sonic_pulse_cooldown_ticks = 300
+			# Default: 100.0
+			# Range: 0.0 ~ 1000000.0
+			high_health_threshold = 100.0
+
+	[update_5.mythic]
+		enabled = true
+		loot_enabled = true
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		extra_curse_chance = 0.25
+		apply_curse_on_success = true
+		can_be_extracted = false
+		can_be_mutated_by_wild = false
+		# Default: 4
+		# Range: > 0
+		min_loot_difficulty = 4
+		# Default: 1
+		# Range: > 0
+		weight = 1
+
+		[update_5.mythic.ruin]
+			# Default: 20.0
+			# Range: 0.0 ~ 1000.0
+			damage_bonus_percent = 20.0
+			# Default: 0.05
+			# Range: 0.0 ~ 1.0
+			extra_corruption_chance = 0.05
+			# Default: 1
+			# Range: > 0
+			extra_corruption_amount = 1
+			# Default: 20.0
+			# Range: 0.0 ~ 1000.0
+			durability_use_increase_percent = 20.0
+
+		[update_5.mythic.dominion]
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			enhancement_power_bonus_percent = 10.0
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			synergy_power_bonus_percent = 5.0
+
+		[update_5.mythic.hunger]
+			# Default: 2
+			# Range: > 0
+			durability_restore_on_kill = 2
+			# Default: 0.03
+			# Range: 0.0 ~ 1.0
+			extra_corruption_on_hit_chance = 0.03
+			# Default: 1
+			# Range: > 0
+			extra_corruption_amount = 1
+
+		[update_5.mythic.void]
+			# Default: 0.35
+			# Range: 0.0 ~ 1.0
+			low_health_threshold = 0.35
+			# Default: 25.0
+			# Range: 0.0 ~ 1000.0
+			damage_bonus_percent = 25.0
+			# Default: 200
+			# Range: > 0
+			combat_corruption_interval_ticks = 200
+			# Default: 1
+			# Range: > 0
+			combat_corruption_amount = 1
+
+		[update_5.mythic.ascendance]
+			# Default: 50.0
+			# Range: 0.0 ~ 1000000.0
+			target_max_health_threshold = 50.0
+			# Default: 200
+			# Range: > 0
+			duration_ticks = 200
+			# Default: 15.0
+			# Range: 0.0 ~ 1000.0
+			damage_bonus_percent = 15.0
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			speed_bonus_percent = 10.0
+
+	[update_5.corruption]
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		stable_attribute_roll_chance = 0.0
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		tainted_negative_attribute_roll_chance = 0.05
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		tainted_positive_attribute_roll_chance = 0.0
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		corrupted_negative_attribute_roll_chance = 0.1
+		# Default: 0.03
+		# Range: 0.0 ~ 1.0
+		corrupted_positive_attribute_roll_chance = 0.03
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		critical_negative_attribute_roll_chance = 0.2
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		critical_positive_attribute_roll_chance = 0.05
+		enable_negative_attributes = true
+		enable_positive_attributes = true
+
+	[update_5.attributes]
+		# Default: 5.0
+		# Range: 0.0 ~ 1000.0
+		ancient_enhancement_power_bonus_percent = 5.0
+		# Default: 10.0
+		# Range: 0.0 ~ 1000.0
+		harmonized_synergy_power_bonus_percent = 10.0
+		# Default: 10.0
+		# Range: 0.0 ~ 1000.0
+		tempered_inscription_corruption_reduction_percent = 10.0
+		# Default: 10.0
+		# Range: 0.0 ~ 1000.0
+		reinforced_durability_loss_reduction_percent = 10.0
+
+	[update_5.synergy]
+		# Default: 3.0
+		# Range: 0.0 ~ 128.0
+		shatter_radius = 3.0
+		# Default: 0.35
+		# Range: 0.0 ~ 1000.0
+		shatter_damage_multiplier = 0.35
+		# Default: 40
+		# Range: > 0
+		shatter_cooldown_ticks = 40
+		# Default: 4
+		# Range: > 0
+		bloodfire_fire_seconds = 4
+		# Default: 0.35
+		# Range: 0.0 ~ 1.0
+		bloodfire_bleed_chance = 0.35
+		# Default: 80
+		# Range: > 0
+		bloodfire_bleed_duration_ticks = 80
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		corrosion_armor_ignore_percent = 0.25
+		# Default: 0.2
+		# Range: 0.0 ~ 1000.0
+		corrosion_bonus_damage_multiplier = 0.2
+		# Default: 100
+		# Range: > 0
+		executioners_fury_duration_ticks = 100
+		# Default: 0.15
+		# Range: 0.0 ~ 1000.0
+		executioners_fury_damage_bonus_percent = 0.15
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		executioners_fury_execution_health_threshold = 0.3
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		juggernaut_damage_threshold_percent = 0.2
+		# Default: 100
+		# Range: > 0
+		juggernaut_duration_ticks = 100
+		# Default: 4.0
+		# Range: 0.0 ~ 1000.0
+		juggernaut_armor_bonus = 4.0
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		juggernaut_knockback_resistance_bonus = 0.5
+		# Default: 300
+		# Range: > 0
+		juggernaut_cooldown_ticks = 300
+		# Default: 5
+		# Range: > 0
+		tempest_hits_required = 5
+		# Default: 3
+		# Range: > 0
+		tempest_chain_targets = 3
+		# Default: 0.25
+		# Range: 0.0 ~ 1000.0
+		tempest_damage_multiplier = 0.25
+		# Default: 5.0
+		# Range: 0.0 ~ 128.0
+		tempest_radius = 5.0
+		# Default: 3.0
+		# Range: 0.0 ~ 1000.0
+		reaper_heal_amount = 3.0
+		# Default: 0.15
+		# Range: 0.0 ~ 1000.0
+		reaper_attack_speed_bonus_percent = 0.15
+		# Default: 80
+		# Range: > 0
+		reaper_duration_ticks = 80
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		reaper_execution_health_threshold = 0.3
+		# Default: 4.0
+		# Range: 0.0 ~ 128.0
+		soulburn_radius = 4.0
+		# Default: 100
+		# Range: > 0
+		soulburn_wither_duration_ticks = 100
+		# Default: 0
+		# Range: > 0
+		soulburn_wither_amplifier = 0
+		# Default: 40
+		# Range: > 0
+		soulburn_cooldown_ticks = 40
+		# Default: 1.5
+		# Range: 0.0 ~ 1000.0
+		frostbite_freeze_bonus_multiplier = 1.5
+		# Default: 0.15
+		# Range: 0.0 ~ 1000.0
+		frostbite_chilled_damage_multiplier = 0.15
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		venom_burst_chance = 0.25
+		# Default: 3.5
+		# Range: 0.0 ~ 128.0
+		venom_burst_radius = 3.5
+		# Default: 0.2
+		# Range: 0.0 ~ 1000.0
+		venom_burst_damage_multiplier = 0.2
+		# Default: 80
+		# Range: > 0
+		venom_burst_poison_duration_ticks = 80
+		# Default: 3
+		# Range: > 1
+		berserk_hits_required = 3
+		# Default: 100
+		# Range: > 0
+		berserk_duration_ticks = 100
+		# Default: 0.2
+		# Range: 0.0 ~ 1000.0
+		berserk_attack_speed_bonus_percent = 0.2
+		# Default: 0.1
+		# Range: 0.0 ~ 1000.0
+		berserk_movement_speed_bonus_percent = 0.1
+		# Default: 3.0
+		# Range: 0.0 ~ 128.0
+		ice_prison_radius = 3.0
+		# Default: 40
+		# Range: > 0
+		ice_prison_duration_ticks = 40
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		ice_prison_boss_duration_multiplier = 0.25
+		# Default: 100
+		# Range: > 0
+		ice_prison_cooldown_ticks = 100

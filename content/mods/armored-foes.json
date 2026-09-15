@@ -1,0 +1,23 @@
+{
+  "name": "Armored Foes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ahTPKYtE",
+      "slug": "armored-foes",
+      "versionId": "Vtib7s2F",
+      "versionNumber": "21.1.0",
+      "filename": "ArmoredFoes-v21.1.0-mc1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ahTPKYtE/versions/Vtib7s2F/ArmoredFoes-v21.1.0-mc1.21.1-NeoForge.jar",
+      "sha1": "9b67474f98fd14110cbcefd406b18e05def36b63",
+      "sha512": "516f2691da81737451fdac35d022fe26ba2dfa67a26d29e0f7e33c6c0e07f25f7d9dcc367c52da221b29966840bed49f237d3961a77094cf78c8bc7d3e93d375",
+      "fileSize": 85751
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

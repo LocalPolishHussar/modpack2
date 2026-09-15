@@ -1,0 +1,23 @@
+{
+  "name": "Burnt Basic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aclfPzta",
+      "slug": "burnt-basic",
+      "versionId": "gVPB2Kua",
+      "versionNumber": "1.10.4.2",
+      "filename": "burnt_basic-1.10.4.2-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aclfPzta/versions/gVPB2Kua/burnt_basic-1.10.4.2-neoforge-1.21.1.jar",
+      "sha1": "a027acb53dd723d1bb5f49d7d5b28c3397012c9d",
+      "sha512": "edd99b3e0aa18c2029556f893ab3af247fa910b9cca1a48aa3c8fbd341b604b39d53ad3d510334c5b8073e72179b7448ef28572f1af9e62f2c3eddfa62d5f72f",
+      "fileSize": 21291015
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

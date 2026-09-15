@@ -1,0 +1,23 @@
+{
+  "name": "Shield Expansion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sjxWxSao",
+      "slug": "shield-expansion",
+      "versionId": "UC512VgT",
+      "versionNumber": "1.4.3",
+      "filename": "shieldexp-neoforge-1.21.1-1.4.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sjxWxSao/versions/UC512VgT/shieldexp-neoforge-1.21.1-1.4.3.jar",
+      "sha1": "2c61e2f207b3ecd41767bc8f6296d9f9c43796eb",
+      "sha512": "312714e665285477adbd98e421227b15c97cbe50eb5bc156525b323c89a276b54d7606a848219fdc713db2602153dc02bf9caf11d389a49c4b8e596d508756bb",
+      "fileSize": 270216
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

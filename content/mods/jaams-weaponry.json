@@ -1,0 +1,23 @@
+{
+  "name": "Jaam's Weaponry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rAloWpjz",
+      "slug": "jaams-weaponry",
+      "versionId": "tknyYuGm",
+      "versionNumber": "1.1.2",
+      "filename": "jaams_weaponry-1.1.2-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rAloWpjz/versions/tknyYuGm/jaams_weaponry-1.1.2-neoforge-1.21.1.jar",
+      "sha1": "4922565512f4271ef79b3da2f742b0ffbe984557",
+      "sha512": "53673e339d31bab0332c9ab4db9d5f7be70297837bcea07a627dea45f773a0704c5156adcd47bc808f1282f644d6872be03ce551297a4722abd57a83d3fb19c6",
+      "fileSize": 5965452
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

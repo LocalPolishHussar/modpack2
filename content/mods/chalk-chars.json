@@ -1,0 +1,23 @@
+{
+  "name": "Chalk: Chars",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YnpOJT0H",
+      "slug": "chalk-chars",
+      "versionId": "icGswGED",
+      "versionNumber": "1.0.0",
+      "filename": "chalk-chars-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YnpOJT0H/versions/icGswGED/chalk-chars-1.0.0.jar",
+      "sha1": "0e8398a1f9710216498bfebcb9c29e7bece149da",
+      "sha512": "c98352cd0d1507cb21294fdc11046d903cfdcac6d5d30d65ff0f4cfd6515473f8b982acc09efd02b1321636a578946a8099f2c640a09e61678c7ccace2d80cb4",
+      "fileSize": 102098
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

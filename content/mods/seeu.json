@@ -1,0 +1,23 @@
+{
+  "name": "SeeU",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "coyNPDey",
+      "slug": "seeu",
+      "versionId": "RvHSM0vb",
+      "versionNumber": "0.9.1",
+      "filename": "seeu-neoforge-1.21.1-0.9.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/coyNPDey/versions/RvHSM0vb/seeu-neoforge-1.21.1-0.9.1.jar",
+      "sha1": "a4790872b57e2b1f16d1c034def9bb7ddbc22c3f",
+      "sha512": "1f6758a1c9becc25dfa4e112d08b26e55157bf79043ef7f6b620a344a26f73c2ba56e18a3f5ff6ec6e16cdf6cff3e7cdc4c877e8ab0c0abe5db4545b5012f2e7",
+      "fileSize": 124199
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

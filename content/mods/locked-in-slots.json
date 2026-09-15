@@ -1,0 +1,23 @@
+{
+  "name": "Locked In Slots",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "y2Xn63zs",
+      "slug": "locked-in-slots",
+      "versionId": "o5Rv93ng",
+      "versionNumber": "21.1.0",
+      "filename": "LockedInSlots-v21.1.0-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/y2Xn63zs/versions/o5Rv93ng/LockedInSlots-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "9086d0acb6808551b784242489ca956e63f13eb5",
+      "sha512": "933c3dd584a5f2644c7a42fe467119886b2439636d875d088c18474a4eb9d4ffdac6cb924b8321188d82491835d4e1cc12fd29a1cc13250b2391493decca86f7",
+      "fileSize": 60414
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

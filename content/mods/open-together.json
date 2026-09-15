@@ -1,0 +1,23 @@
+{
+  "name": "Open Together",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ssyvO6WG",
+      "slug": "open-together",
+      "versionId": "804hl1hL",
+      "versionNumber": "21.1.2",
+      "filename": "OpenTogether-v21.1.2-mc1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ssyvO6WG/versions/804hl1hL/OpenTogether-v21.1.2-mc1.21.1-NeoForge.jar",
+      "sha1": "f56ea5e1d51b203f42d9ed4b13190a58f308736d",
+      "sha512": "b712994a3de7c967f2a0f428ada176bcdb47abf09482233ed4477cf160fc6804509186e230806cb20b2c1abf8461823c2c6b9de17ed5916c8a5f391ec628a67a",
+      "fileSize": 60192
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

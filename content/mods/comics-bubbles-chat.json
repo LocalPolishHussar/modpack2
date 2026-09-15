@@ -1,0 +1,23 @@
+{
+  "name": "Comics Bubbles Chat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "th4Wn63R",
+      "slug": "comics-bubbles-chat",
+      "versionId": "g5mEYQAj",
+      "versionNumber": "1.4.0",
+      "filename": "1.21.1-comicsbubbleschat-neoforge-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/th4Wn63R/versions/g5mEYQAj/1.21.1-comicsbubbleschat-neoforge-1.4.0.jar",
+      "sha1": "086dd794e62ba266279a7bcbb9d29759a98097ea",
+      "sha512": "66efea9ee585d010c840039107567a16e27df78804e6e7d69916933e5d46dbf5c77bf95d856b84174ded67ccc1b8d28bb4823bf6a8ff4c2d13e648afa141c73d",
+      "fileSize": 181335
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

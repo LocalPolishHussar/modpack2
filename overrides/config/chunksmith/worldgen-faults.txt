@@ -1,0 +1,17 @@
+Chunksmith - Worldgen Fault Report
+Generated: Tue, 15 Sep 2026 18:33:38 +0200
+Chunksmith generation task active: no
+Total faults this session: 2
+
+These are vanilla worldgen errors Chunksmith caught and kept out of the server log.
+Each is attributed to the structure/datapack being generated - report it to that mod's author.
+====================================================================
+
+mod/datapack: envelope
+  total faults: 2
+  error types:
+    - block-attached entity: anchor more than 16 blocks from the entity x2
+  structures involved:
+    - envelope:collapsed_mail_hub x2
+  sample broken chunks (up to 10): [-85,6]
+
