@@ -764,14 +764,14 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: PIXEL_ART
-				verticalQuality = "MEDIUM"
+				verticalQuality = "low"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 200
+				lodChunkRenderDistanceRadius = 156
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
