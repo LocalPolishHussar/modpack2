@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 118 mods
+**Minecraft 1.21.1 · neoforge 21.1.250**, 119 mods
 
 ## Contents
 
@@ -58,6 +58,7 @@
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.17.0-1.21.1-neoforge`
+- [Flerovium](https://modrinth.com/project/flerovium) `1.1.2`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`

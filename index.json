@@ -217,6 +217,10 @@
       "sha1": "ba1839097e5750b6df9155be6390052b375ad5e8"
     },
     {
+      "path": "content/mods/flerovium.json",
+      "sha1": "9f0996c4c4ad4080a2f83bcf0d3285a89aae60d0"
+    },
+    {
       "path": "content/mods/geckolib.json",
       "sha1": "e3f95a5681fdc11a2bc2fe6195f11308533286ff"
     },
@@ -410,7 +414,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "99e3e109990e6dbaa9468b39ac991150f4927f3c"
+      "sha1": "45a48d241eeeed419165ee4cb445ace895cd2b13"
     },
     {
       "path": "content/mods/ssrd.json",
