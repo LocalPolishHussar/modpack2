@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 115 mods
+**Minecraft 1.21.1 · neoforge 21.1.250**, 117 mods
 
 ## Contents
 
@@ -16,6 +16,7 @@
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
+- [Better Safe Bed](https://modrinth.com/project/better-safe-bed) `1.21-16`
 - [Big Brain](https://modrinth.com/project/big-brain) `2.2.8`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
@@ -63,6 +64,7 @@
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.3+1.21.1-neoforge`
+- [Incubation](https://modrinth.com/project/incubation) `5.0.2`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.1.0`
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/project/irons-spells-n-spellbooks) `1.21.1-3.16.3`
 - [IronSable](https://modrinth.com/project/ironsable) `1.2.0`

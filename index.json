@@ -45,6 +45,10 @@
       "sha1": "2d93bfc949669018dba3bd58abe433b20dfa9cea"
     },
     {
+      "path": "content/mods/better-safe-bed.json",
+      "sha1": "30721f931379ed5ed90bbe7363614f544cd4e1be"
+    },
+    {
       "path": "content/mods/betterdays.json",
       "sha1": "a71eb0c24bb48704449bca9f9b0aac883eb98b24"
     },
@@ -58,7 +62,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "841ad87a149e4e145730475c8e2ccc81d670478f"
+      "sha1": "f377337726991eb961e62094158a4650ba485a3c"
     },
     {
       "path": "content/mods/brewin-and-chewin.json",
@@ -235,6 +239,10 @@
     {
       "path": "content/mods/immersive-overlays.json",
       "sha1": "72c1ee8b49eb1a7c05e01dd34ef9aa8cd02d1bcf"
+    },
+    {
+      "path": "content/mods/incubation.json",
+      "sha1": "ca24c51ef2dbc778feaa1a7afb16612a3151b224"
     },
     {
       "path": "content/mods/irons-lib.json",
