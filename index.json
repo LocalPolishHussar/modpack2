@@ -13,6 +13,10 @@
       "sha1": "e287da076947f98c24e0c04abf72c3d0a116345e"
     },
     {
+      "path": "content/mods/alternate-current.json",
+      "sha1": "9da02df59ff0c75fa5e0f5b3882703e9b5187c9f"
+    },
+    {
       "path": "content/mods/amendments.json",
       "sha1": "3808c88189b81eb047492afef4e8fdd20c2acf6f"
     },
@@ -574,7 +578,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "eae1b05f23b37abb7e96ebf1f12915ef0c47a0d2"
+      "sha1": "9bb4d32c6157affd60dad654bac10c3f94599b44"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
