@@ -1,11 +1,11 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 119 mods
+**Minecraft 1.21.1 · neoforge 21.1.250**, 120 mods
 
 ## Contents
 
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/ai-improvements) `0.5.3`
-- [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.3.0`
+- [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
 - AllTheLeaks (Memory Leak Fix) `alltheleaks-1.1.12+1.21.1-neoforge.jar` (curseforge)
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
@@ -25,7 +25,7 @@
 - [Burnt Basic](https://modrinth.com/project/burnt-basic) `1.10.4.2`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Chalk: Chars](https://modrinth.com/project/chalk-chars) `1.0.0`
-- [Chunksmith](https://modrinth.com/project/chunksmith) `4.0.0+1.21.1-neoforge`
+- [Chunksmith](https://modrinth.com/project/chunksmith) `4.1.0+1.21.1-neoforge`
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
@@ -58,8 +58,8 @@
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.17.0-1.21.1-neoforge`
-- [Flerovium](https://modrinth.com/project/flerovium) `1.1.2`
-- [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
+- [Flerovium](https://modrinth.com/project/flerovium) `1.1.3`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
@@ -107,9 +107,10 @@
 - [Shield Expansion](https://modrinth.com/project/shield-expansion) `1.4.3`
 - Signal Flares `signal_flares-2.0.1-neoforge-1.21.1.jar` (curseforge)
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.23`
+- [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+1.21-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
-- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.5`
+- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.7`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`
@@ -119,7 +120,7 @@
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.4`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.5`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.2-1.21.1-neoforge`

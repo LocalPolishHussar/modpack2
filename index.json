@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alltuttasneeds.json",
-      "sha1": "e287da076947f98c24e0c04abf72c3d0a116345e"
+      "sha1": "93a5e4d4341ae122e1f5dfd823f6e78897d59a55"
     },
     {
       "path": "content/mods/alternate-current.json",
@@ -90,7 +90,7 @@
     },
     {
       "path": "content/mods/chunksmith.json",
-      "sha1": "f82b2e17712e36b2adfeaf2c111128079b2b3806"
+      "sha1": "d888482e7d50c90c0778a73549a8279179c4ff89"
     },
     {
       "path": "content/mods/clayworks.json",
@@ -218,11 +218,11 @@
     },
     {
       "path": "content/mods/flerovium.json",
-      "sha1": "9f0996c4c4ad4080a2f83bcf0d3285a89aae60d0"
+      "sha1": "3c896f2b28e0d09cc2050e1900b5f42e0a1ae407"
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "e3f95a5681fdc11a2bc2fe6195f11308533286ff"
+      "sha1": "e799f06eb2392a0a4cfc592990f33e42061e30ed"
     },
     {
       "path": "content/mods/glaidens-audio-aeronautics-compat.json",
@@ -413,8 +413,12 @@
       "sha1": "0f9edb5bb88839eea14f7b7a023e0216a1e2b835"
     },
     {
+      "path": "content/mods/skinrestorer.json",
+      "sha1": "99687a6b42e48948a1d18fbbbcb140a18977f33d"
+    },
+    {
       "path": "content/mods/sodium.json",
-      "sha1": "45a48d241eeeed419165ee4cb445ace895cd2b13"
+      "sha1": "99e3e109990e6dbaa9468b39ac991150f4927f3c"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -422,7 +426,7 @@
     },
     {
       "path": "content/mods/streams-reflowing.json",
-      "sha1": "7816e57437b7631b9c151ebeb184c037f785322d"
+      "sha1": "44d106fe03cdfc06f16a0997819635142c194c7b"
     },
     {
       "path": "content/mods/strut-your-stuff.json",
@@ -462,7 +466,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "170a5c3ad34a7f080483fb0fc0a8db837a99ae02"
+      "sha1": "53c335dd70a745cf8dee13b17aa1e08bfada35a3"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",
@@ -582,7 +586,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "9bb4d32c6157affd60dad654bac10c3f94599b44"
+      "sha1": "e3be225b9257b6485c9ed5c2ed73b4e76b740530"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",

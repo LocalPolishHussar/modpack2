@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "oLS8HdJ1",
       "slug": "streams-reflowing",
-      "versionId": "D0vIdKvL",
-      "versionNumber": "2.13.5",
-      "filename": "StreamsReflowing-1.21.1-neoforge-2.13.5.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/oLS8HdJ1/versions/D0vIdKvL/StreamsReflowing-1.21.1-neoforge-2.13.5.jar",
-      "sha1": "30b4203fee5ae9605e4c8631032910d0907e0820",
-      "sha512": "9944b635c60c2826081a4ead882ded398e82ca0c0200fa6fbde22ee132167b4bdaf98bdd6c5c4f14c26569a1b1a8700980b5eb75ae0f04d4a0d9a89a54459263",
-      "fileSize": 2718090
+      "versionId": "6NxiV8fg",
+      "versionNumber": "2.13.7",
+      "filename": "StreamsReflowing-1.21.1-neoforge-2.13.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/oLS8HdJ1/versions/6NxiV8fg/StreamsReflowing-1.21.1-neoforge-2.13.7.jar",
+      "sha1": "9bc0ba0987565b657f63dfd0a6c17972b0a6c5f1",
+      "sha512": "7e32950656aa0bf4f97e5ee7c5223909371586022b11a31084e30d1698d462c58e3e4c28b6c276f125a6d48ec0575c515544a9ca2247d10ff13c83d5df0db313",
+      "fileSize": 2742785
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "zuARv1N7",
       "slug": "vista_tv",
-      "versionId": "A9ORaZIY",
-      "versionNumber": "1.21.1-5.5.4",
-      "filename": "vista-1.21.1-5.5.4-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/zuARv1N7/versions/A9ORaZIY/vista-1.21.1-5.5.4-neoforge.jar",
-      "sha1": "d610ffc118cfe9d17fdceeda1d13b432da3638d4",
-      "sha512": "3d3dcbf34f5cbe8ceb46b3d196943547d6a86d53d1bee66b003676d4f632893f966025ea6cf9cf7a1f868ea5ebd5446dfac4e732f3830ab3afe7c5c29f58af27",
-      "fileSize": 5774040
+      "versionId": "M1F8Vuva",
+      "versionNumber": "1.21.1-5.5.5",
+      "filename": "vista-1.21.1-5.5.5-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zuARv1N7/versions/M1F8Vuva/vista-1.21.1-5.5.5-neoforge.jar",
+      "sha1": "28fdbb794edc3cdcd9bcc4f0718daa5f3d300a04",
+      "sha512": "9416328f1550b8d1d4621379375f3ad01379aca1ba4d42bf1f16e15d04cadae72e55f32782d1319d98a1b507b93108e0089a7796fe63921ad0e470e4471ba86e",
+      "fileSize": 5774800
     }
   },
   "dependents": [],
