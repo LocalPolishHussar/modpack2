@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -57,6 +57,9 @@
 - [Experience Obliterator](https://modrinth.com/project/experience-obliterator) `1.0.1-1.21.1-neoforge`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
+- [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
+- [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
+- [Farcr's Re-Create](https://modrinth.com/project/farcrs-re-create) `V1.6`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.17.0-1.21.1-neoforge`
 - [Flerovium](https://modrinth.com/project/flerovium) `1.1.3`
@@ -115,6 +118,7 @@
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.7`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
+- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`

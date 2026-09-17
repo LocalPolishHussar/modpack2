@@ -497,6 +497,22 @@
       "sha1": "8356343640b5af4300daebd93eabab8d76e6b6a5"
     },
     {
+      "path": "content/resourcepacks/farcrs-better-dirt.json",
+      "sha1": "14f8b4dce1bbf04b73ddfe38f8113cdc89f1fc0f"
+    },
+    {
+      "path": "content/resourcepacks/farcrs-re-crafted.json",
+      "sha1": "1c617d5cfda9957f079b4864563d0d4a54c78600"
+    },
+    {
+      "path": "content/resourcepacks/farcrs-re-create.json",
+      "sha1": "52b218ed907e3efe62f76a9209447f28d452d32b"
+    },
+    {
+      "path": "content/resourcepacks/sunbathing-godrays.json",
+      "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
+    },
+    {
       "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_0.class",
       "sha1": "9e0b4f6d723afa3feabd9b9e09df3ea6897fc8ac"
     },
