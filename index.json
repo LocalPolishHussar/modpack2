@@ -78,11 +78,11 @@
     },
     {
       "path": "content/mods/burnt-basic.json",
-      "sha1": "3ff5f0deae644d7971ba4ee1c91f69daac437da3"
+      "sha1": "91d010761cdccfe025b5dca8abdbd69cf49cf026"
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "31bf0af7fd73072f82825eb36d526c139e331460"
+      "sha1": "7b2a70c8c93d9b892c1a7f4f64faf77793c9d945"
     },
     {
       "path": "content/mods/chalk-chars.json",
@@ -442,7 +442,7 @@
     },
     {
       "path": "content/mods/streams-reflowing.json",
-      "sha1": "44d106fe03cdfc06f16a0997819635142c194c7b"
+      "sha1": "bde39cc129354bd1edee3ae05ead93701bdca5a9"
     },
     {
       "path": "content/mods/strut-your-stuff.json",
@@ -618,7 +618,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "4a96414cebd800016a839aa84abae0e07e8a3739"
+      "sha1": "44466669028a7dea4a9c0ac58609c154f8a23f74"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",

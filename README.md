@@ -22,7 +22,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
-- [Burnt](https://modrinth.com/project/burnt-basic) `1.10.4.2`
+- [Burnt](https://modrinth.com/project/burnt-basic) `1.10.5`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Chalk: Chars](https://modrinth.com/project/chalk-chars) `1.0.0`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `4.1.0+1.21.1-neoforge`
@@ -31,7 +31,7 @@
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Comics Bubbles Chat](https://modrinth.com/project/comics-bubbles-chat) `1.4.0`
-- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
@@ -116,7 +116,7 @@
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+1.21-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
-- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.7`
+- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.8`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
