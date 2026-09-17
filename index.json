@@ -74,7 +74,7 @@
     },
     {
       "path": "content/mods/burnt-basic.json",
-      "sha1": "5bbdbd86e348bee43ef1328058c5e978a5eb6d25"
+      "sha1": "3ff5f0deae644d7971ba4ee1c91f69daac437da3"
     },
     {
       "path": "content/mods/c2me-neoforge.json",
@@ -361,6 +361,10 @@
       "sha1": "9b5d6019a75b6375251fd8594ed70a1af3215954"
     },
     {
+      "path": "content/mods/realistic-nametag.json",
+      "sha1": "923c3d503602168b1a17b077025aa091fa206580"
+    },
+    {
       "path": "content/mods/reconnectible-chains.json",
       "sha1": "806a437d9d2d36467c8f0519d5c9be7eba791454"
     },
@@ -586,7 +590,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "e3be225b9257b6485c9ed5c2ed73b4e76b740530"
+      "sha1": "4a96414cebd800016a839aa84abae0e07e8a3739"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",

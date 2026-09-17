@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 120 mods
+**Minecraft 1.21.1 · neoforge 21.1.250**, 121 mods
 
 ## Contents
 
@@ -22,7 +22,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
-- [Burnt Basic](https://modrinth.com/project/burnt-basic) `1.10.4.2`
+- [Burnt](https://modrinth.com/project/burnt-basic) `1.10.4.2`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Chalk: Chars](https://modrinth.com/project/chalk-chars) `1.0.0`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `4.1.0+1.21.1-neoforge`
@@ -93,6 +93,7 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.60`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Ready Player Fun](https://modrinth.com/project/ready-player-fun) `1.21.1-3.0.1.5-NEOFORGE`
+- [Realistic Nametag](https://modrinth.com/project/realistic-nametag) `1.3.1`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.3.3-1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
