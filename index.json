@@ -45,6 +45,10 @@
       "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
     },
     {
+      "path": "content/mods/balm.json",
+      "sha1": "79b598aed86184244090dc336f63b5ba271a2179"
+    },
+    {
       "path": "content/mods/barehanded.json",
       "sha1": "2d93bfc949669018dba3bd58abe433b20dfa9cea"
     },
@@ -123,6 +127,10 @@
     {
       "path": "content/mods/coroutil.json",
       "sha1": "aa30413ee187e317a037565ed00a52f88fa3fd95"
+    },
+    {
+      "path": "content/mods/crafting-tweaks.json",
+      "sha1": "1c092c7f6dcd00941671680719872ef85b72dce6"
     },
     {
       "path": "content/mods/create-aeronautics.json",
@@ -251,6 +259,10 @@
     {
       "path": "content/mods/incubation.json",
       "sha1": "ca24c51ef2dbc778feaa1a7afb16612a3151b224"
+    },
+    {
+      "path": "content/mods/inventory-essentials.json",
+      "sha1": "ee7b3f813ec1d29c715fdea66b69beb1f888e53e"
     },
     {
       "path": "content/mods/irons-lib.json",

@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 121 mods
+**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency)
 
 ## Contents
 
@@ -35,6 +35,7 @@
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
+- [Crafting Tweaks](https://modrinth.com/project/crafting-tweaks) `21.1.11+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
@@ -67,6 +68,7 @@
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.3+1.21.1-neoforge`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
+- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.18+neoforge-1.21.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.1.0`
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/project/irons-spells-n-spellbooks) `1.21.1-3.16.3`
 - [IronSable](https://modrinth.com/project/ironsable) `1.2.0`
