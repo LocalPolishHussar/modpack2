@@ -842,7 +842,7 @@ farFogStart = "0.0"
 #
 # 0.0: No fog.
 # 1.0: Fully opaque fog.
-farFogMin = "0.5"
+farFogMin = "0.4"
 #
 # What color should fog use?
 #
