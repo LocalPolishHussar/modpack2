@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 124 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -83,6 +83,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
 - [Locked In Slots](https://modrinth.com/project/locked-in-slots) `21.1.0`
+- [Manual Labour](https://modrinth.com/project/manual-labour) `2.4.0-1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.4`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`

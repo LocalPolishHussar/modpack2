@@ -313,6 +313,10 @@
       "sha1": "f49e87b1a38e20fd02b772732a25f93eea2fd84e"
     },
     {
+      "path": "content/mods/manual-labour.json",
+      "sha1": "b122c76b2c30e03510292896aa4eaf211c81e8a2"
+    },
+    {
       "path": "content/mods/moonlight.json",
       "sha1": "23c9cd9484fc6390b4bf85e1b2eeed1dc2a8d49b"
     },
@@ -490,7 +494,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "3d87e224af6471b82f3873b90e55f18112dac01d"
+      "sha1": "9d893e34552cf58600c552514c096b7448f4635d"
     },
     {
       "path": "content/mods/ziplines-rezipped.json",
