@@ -190,7 +190,7 @@
     },
     {
       "path": "content/mods/distanthorizons.json",
-      "sha1": "9499b7cf66e257c723700d2320634be8ff5278c4"
+      "sha1": "820a47fad3a388d95bd0974f3511dd98c86f27da"
     },
     {
       "path": "content/mods/emi.json",
@@ -622,7 +622,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "44466669028a7dea4a9c0ac58609c154f8a23f74"
+      "sha1": "549143bda42616e3b3acf9516c9b5327eb8a2d76"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",

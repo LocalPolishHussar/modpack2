@@ -50,7 +50,7 @@
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Death Finder](https://modrinth.com/project/death-finder) `21.1.2`
-- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.1-1.21.1`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.0-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
