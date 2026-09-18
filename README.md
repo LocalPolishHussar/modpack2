@@ -50,7 +50,7 @@
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Death Finder](https://modrinth.com/project/death-finder) `21.1.2`
-- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.1-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
@@ -128,7 +128,7 @@
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.5`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.6`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.2-1.21.1-neoforge`
