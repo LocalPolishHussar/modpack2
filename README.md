@@ -50,7 +50,7 @@
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Death Finder](https://modrinth.com/project/death-finder) `21.1.2`
-- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.1-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
@@ -89,7 +89,7 @@
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Open Together](https://modrinth.com/project/open-together) `21.1.2`
-- [Oreganized](https://modrinth.com/project/oreganized) `5.2.1`
+- [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.11+1.21.1-neoforge`
 - [Peaceless](https://modrinth.com/project/peaceless) `1.0`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
