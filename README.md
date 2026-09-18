@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 124 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -68,7 +68,6 @@
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
-- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.3+1.21.1-neoforge`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
 - [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.18+neoforge-1.21.1`
