@@ -402,7 +402,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "83dab56bb7537abe6dc484458115a728d0ae8a8b"
+      "sha1": "e792383793795403da00adfd5e784db0372ecd11"
     },
     {
       "path": "content/mods/searchables.json",
@@ -434,11 +434,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "99e3e109990e6dbaa9468b39ac991150f4927f3c"
-    },
-    {
-      "path": "content/mods/ssrd.json",
-      "sha1": "3b481633d174a200f9f3f26a7ba983515c437c4f"
+      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
     },
     {
       "path": "content/mods/streams-reflowing.json",

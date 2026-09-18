@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 122 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -108,7 +108,6 @@
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [SeeU](https://modrinth.com/project/seeu) `0.9.1`
-- [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.6`
 - [Separated Leaves](https://modrinth.com/project/separatedleaves) `2.6.1-neoforge-1.21.1`
 - [Shield Expansion](https://modrinth.com/project/shield-expansion) `1.4.3`
 - Signal Flares `signal_flares-2.0.1-neoforge-1.21.1.jar` (curseforge)
