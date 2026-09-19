@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "coyNPDey",
       "slug": "seeu",
-      "versionId": "RvHSM0vb",
-      "versionNumber": "0.9.1",
-      "filename": "seeu-neoforge-1.21.1-0.9.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/coyNPDey/versions/RvHSM0vb/seeu-neoforge-1.21.1-0.9.1.jar",
-      "sha1": "a4790872b57e2b1f16d1c034def9bb7ddbc22c3f",
-      "sha512": "1f6758a1c9becc25dfa4e112d08b26e55157bf79043ef7f6b620a344a26f73c2ba56e18a3f5ff6ec6e16cdf6cff3e7cdc4c877e8ab0c0abe5db4545b5012f2e7",
-      "fileSize": 124199
+      "versionId": "G1VqnokG",
+      "versionNumber": "0.9.1.1",
+      "filename": "seeu-neoforge-1.21.1-0.9.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/coyNPDey/versions/G1VqnokG/seeu-neoforge-1.21.1-0.9.1.1.jar",
+      "sha1": "7e31f960db40a49be0c83684c91bfec15593017e",
+      "sha512": "bd7e08ce6caf6b73f6ad9f4c793033759d9f3b800d7daa22b339ce0d614c9ff1738f10e61f5669c8ad08b3603e5b80da4aa8d5409c9114d3b44e20c81b075244",
+      "fileSize": 124233
     }
   },
   "dependents": [],

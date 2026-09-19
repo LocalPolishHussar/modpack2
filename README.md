@@ -50,7 +50,7 @@
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Death Finder](https://modrinth.com/project/death-finder) `21.1.2`
-- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.0-1.21.1`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.1-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
@@ -83,7 +83,7 @@
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
 - [Locked In Slots](https://modrinth.com/project/locked-in-slots) `21.1.0`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.4.0-1.21.1`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.4`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.5`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
@@ -107,7 +107,7 @@
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
-- [SeeU](https://modrinth.com/project/seeu) `0.9.1`
+- [SeeU](https://modrinth.com/project/seeu) `0.9.1.1`
 - [Separated Leaves](https://modrinth.com/project/separatedleaves) `2.6.1-neoforge-1.21.1`
 - [Shield Expansion](https://modrinth.com/project/shield-expansion) `1.4.3`
 - Signal Flares `signal_flares-2.0.1-neoforge-1.21.1.jar` (curseforge)
@@ -126,7 +126,7 @@
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.5`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.6`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.2-1.21.1-neoforge`

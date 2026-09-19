@@ -190,7 +190,7 @@
     },
     {
       "path": "content/mods/distanthorizons.json",
-      "sha1": "820a47fad3a388d95bd0974f3511dd98c86f27da"
+      "sha1": "9499b7cf66e257c723700d2320634be8ff5278c4"
     },
     {
       "path": "content/mods/emi.json",
@@ -314,7 +314,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "23c9cd9484fc6390b4bf85e1b2eeed1dc2a8d49b"
+      "sha1": "aa4208f66789caef9e7fe8b2c440691956cc891f"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -410,7 +410,7 @@
     },
     {
       "path": "content/mods/seeu.json",
-      "sha1": "8ac675459e87927fe8a43260d0bc240d4955c3a9"
+      "sha1": "227494499ef9f798f7a1dded85637c2f16cb23e6"
     },
     {
       "path": "content/mods/separatedleaves.json",
@@ -478,7 +478,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "53c335dd70a745cf8dee13b17aa1e08bfada35a3"
+      "sha1": "bc0a3162b65223768e96117f40b5e60596a97f67"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",
@@ -1643,10 +1643,6 @@
     {
       "path": "overrides/moonlight-global-datapacks/No More Villages.zip",
       "sha1": "684fc01a012d0bd1a7b605ca550210ff48efb2a4"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "2189b05ef166d2e6f780c60e5d9291ef6e3255a2"
     },
     {
       "path": "overrides/ponders_watched_azimuth.json",
