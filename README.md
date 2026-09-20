@@ -1,12 +1,11 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 122 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 121 mods (1 dependency), 4 resource packs
 
 ## Contents
 
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/ai-improvements) `0.5.3`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
-- AllTheLeaks (Memory Leak Fix) `alltheleaks-1.1.12+1.21.1-neoforge.jar` (curseforge)
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`

@@ -5,10 +5,6 @@
       "sha1": "ee43c5a22013245ef9743fccf14017244f0c5ad8"
     },
     {
-      "path": "content/mods/alltheleaks.json",
-      "sha1": "7a7c870aa5cd3917a46dcb53e8d311d8e9836020"
-    },
-    {
       "path": "content/mods/alltuttasneeds.json",
       "sha1": "93a5e4d4341ae122e1f5dfd823f6e78897d59a55"
     },
@@ -1543,30 +1539,6 @@
     {
       "path": "overrides/config/vista-common.toml",
       "sha1": "48ad3887503cd9b80bd24b0ae718105ebdbb8508"
-    },
-    {
-      "path": "overrides/config/voicechat/category-volumes.properties",
-      "sha1": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac"
-    },
-    {
-      "path": "overrides/config/voicechat/player-volumes.properties",
-      "sha1": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae"
-    },
-    {
-      "path": "overrides/config/voicechat/translations.properties",
-      "sha1": "51ed6d74ce390b2219a85fb3cfdad19c85039d79"
-    },
-    {
-      "path": "overrides/config/voicechat/username-cache.json",
-      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
-    },
-    {
-      "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "ec768915f194f8d3ddc54707087ae8326f61a1f9"
-    },
-    {
-      "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "21f1c20b317ce13591f220bda2cc56a9288844f2"
     },
     {
       "path": "overrides/config/watut-client.toml",
