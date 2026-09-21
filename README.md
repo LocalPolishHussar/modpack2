@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 122 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 121 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -24,7 +24,6 @@
 - [Burnt](https://modrinth.com/project/burnt-basic) `1.10.5`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Chalk: Chars](https://modrinth.com/project/chalk-chars) `1.0.0`
-- [Chunksmith](https://modrinth.com/project/chunksmith) `4.1.0+1.21.1-neoforge`
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`

@@ -89,10 +89,6 @@
       "sha1": "2b596424b37416ac5a5f85154d7a3c163c3c272f"
     },
     {
-      "path": "content/mods/chunksmith.json",
-      "sha1": "d888482e7d50c90c0778a73549a8279179c4ff89"
-    },
-    {
       "path": "content/mods/clayworks.json",
       "sha1": "a4a4046cd027f7b30af27d3b5320ce7807a94355"
     },
@@ -507,106 +503,6 @@
     {
       "path": "content/resourcepacks/sunbathing-godrays.json",
       "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_0.class",
-      "sha1": "9e0b4f6d723afa3feabd9b9e09df3ea6897fc8ac"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_0.class.gv",
-      "sha1": "85808a5b687dfa66458732e4ecaa2b33a653b05c"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_0.class.unoptimized.gv",
-      "sha1": "4c6f593eb103059f83c527746f541c371cbc570b"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_1.class",
-      "sha1": "cdeeafebeb0e8a47bf1a88e0b0aa0fbe737c7f20"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_1.class.gv",
-      "sha1": "dde3bda2e240a917220b68f8274887f9f5ffbb1b"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_1.class.unoptimized.gv",
-      "sha1": "3724c6ea9ac06f035dc2a0f4f0497f5cd7c3c2db"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_2.class",
-      "sha1": "8323a23dcc6132eddba51bcb3a101dde519474b4"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_2.class.gv",
-      "sha1": "50e0eff5a53137821f6a1094b83e1a314614f967"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_2.class.unoptimized.gv",
-      "sha1": "c8772557af025b5cb068edf8c3f2d5f9d57c6b9c"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_3.class",
-      "sha1": "6078b2625085963c8f861aa1aa8545ea6a0557dc"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_3.class.gv",
-      "sha1": "9dcf7cdcd31be2cbbc29630ad30c57dca22709e5"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_3.class.unoptimized.gv",
-      "sha1": "17743d13836b81a43134efb613395e9b8fe59e5a"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_4.class",
-      "sha1": "197002666126c40700ed4f1eb66b2b1f4bbf7726"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_4.class.gv",
-      "sha1": "929126d5a4c138946d1404064156113bd7983df7"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_4.class.unoptimized.gv",
-      "sha1": "8ee5f30de15c1259a8fc6e915a07d043f5bd33a7"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_5.class",
-      "sha1": "661e7fb633f03a014c48d82e232bf4de268ed916"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_5.class.gv",
-      "sha1": "5f22a5baa515850d05a11753eae2bdadef1dcd8e"
-    },
-    {
-      "path": "overrides/cache/c2me-dfc/classes/DfcCompiled_5.class.unoptimized.gv",
-      "sha1": "1dd7ea564fee1532a7e0026325d48be25adfcbde"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/.manifest",
-      "sha1": "c401ce1b83fcf138b90f118961f572d58b40633c"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/r.-1.-1.cslod",
-      "sha1": "064529140848f9e27977959ad965f3cba227fd38"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/r.-1.0.cslod",
-      "sha1": "41b980400cf66b5c5bf8f1b4aaae06fd0dc94e3d"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/r.0.-1.cslod",
-      "sha1": "70785e5d25e7936a4574ba2d7b73ffb6cd39d3d0"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/r.0.0.cslod",
-      "sha1": "43541214a0b9d37157431ecce73e6189bffa75b1"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/r.1.-1.cslod",
-      "sha1": "d40ce1872c4da64c86c2db2a21e2ae8a83849315"
-    },
-    {
-      "path": "overrides/chunksmith/lod/48905440a4664c2cb987e34784e0d7fc/minecraft_overworld/r.1.0.cslod",
-      "sha1": "823c91c0ee4584c77281cc05a17bd22bb5b730c5"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -1581,52 +1477,12 @@
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
     {
-      "path": "overrides/glaidens_radio_mod/natives/2.2.6/.installed",
-      "sha1": "27ef39155a52fea82b7422c03b25b5e2cb692e7d"
-    },
-    {
-      "path": "overrides/glaidens_radio_mod/natives/2.2.6/libconnector.so",
-      "sha1": "4788bf4c9ecabe8cd07982299c4e2e55173b1085"
-    },
-    {
-      "path": "overrides/glaidens_radio_mod/youtube/1.18.1-f45bbb7/.installed",
-      "sha1": "6b1d3740395671f497ec0cf1c2a239db9f6ffb2c"
-    },
-    {
-      "path": "overrides/glaidens_radio_mod/youtube/1.18.1-f45bbb7/rhino-1.7.15.jar",
-      "sha1": "39e53f8e769ea9a7e799f266aa47c85edd99a29e"
-    },
-    {
-      "path": "overrides/glaidens_radio_mod/youtube/1.18.1-f45bbb7/rhino-engine-1.7.15.jar",
-      "sha1": "7bd21acc82129fa4a9d229250c74d238710b53ca"
-    },
-    {
-      "path": "overrides/glaidens_radio_mod/youtube/1.18.1-f45bbb7/youtube-common-f45bbb7aebfcbc1c553769e04af6cd43afa8b7c3-20260819.163356-1.jar",
-      "sha1": "1667693803895f62e115c37e688c99f8a603b129"
-    },
-    {
-      "path": "overrides/glaidens_radio_mod/youtube/1.18.1-f45bbb7/youtube-v2-f45bbb7aebfcbc1c553769e04af6cd43afa8b7c3-20260819.163356-1.jar",
-      "sha1": "4d29295038182932f34afa169184ca5c77d27fec"
-    },
-    {
-      "path": "overrides/icon.png",
-      "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
-    },
-    {
       "path": "overrides/moonlight-global-datapacks/.index/no-more-villages.pw.toml",
       "sha1": "05770e350ad9e3f462031f26ba742a4d340ee0bf"
     },
     {
       "path": "overrides/moonlight-global-datapacks/No More Villages.zip",
       "sha1": "684fc01a012d0bd1a7b605ca550210ff48efb2a4"
-    },
-    {
-      "path": "overrides/ponders_watched_azimuth.json",
-      "sha1": "dfdd55ddc68762c2060429297b312f58dbb4c4d9"
-    },
-    {
-      "path": "overrides/streamsreflowing-stall-20260915-183430.txt",
-      "sha1": "a7ab8fdf1c719d304a021e6c64ef2419b2468da5"
     }
   ]
 }
