@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 125 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 122 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -79,7 +79,6 @@
 - [Lamb Lanterns](https://modrinth.com/project/lamb-lanterns) `1.2.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
-- [Light The Way](https://modrinth.com/project/light-the-way) `1.1.2`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
 - [Locked In Slots](https://modrinth.com/project/locked-in-slots) `21.1.0`
@@ -115,7 +114,6 @@
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.23`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+1.21-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
-- [Spotlights or Something](https://modrinth.com/project/spotlights-or-something) `1.3.1`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.8`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
@@ -127,7 +125,6 @@
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
-- [Veil](https://modrinth.com/project/veil) `4.5.0`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.6`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`

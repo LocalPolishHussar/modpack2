@@ -297,10 +297,6 @@
       "sha1": "17f2f9ce6f5a4194a551cd647c4f4ec7ecebd518"
     },
     {
-      "path": "content/mods/light-the-way.json",
-      "sha1": "ea6e82a1db19eff01c00d637a354369a50f2ab70"
-    },
-    {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
@@ -441,10 +437,6 @@
       "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
     },
     {
-      "path": "content/mods/spotlights-or-something.json",
-      "sha1": "f162f0cdf75eae27e848737cc1e72f93779b2202"
-    },
-    {
       "path": "content/mods/streams-reflowing.json",
       "sha1": "bde39cc129354bd1edee3ae05ead93701bdca5a9"
     },
@@ -479,10 +471,6 @@
     {
       "path": "content/mods/true-darkness-biomes.json",
       "sha1": "4462b875c5b36427fb719b95a89cd0c777a09c6c"
-    },
-    {
-      "path": "content/mods/veil.json",
-      "sha1": "57e5c487eab1d970275c4ca15d539c7a8ed16cc4"
     },
     {
       "path": "content/mods/vercte-satchels.json",
