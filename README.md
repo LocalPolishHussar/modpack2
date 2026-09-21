@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 121 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 122 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -78,6 +78,7 @@
 - [Lamb Lanterns](https://modrinth.com/project/lamb-lanterns) `1.2.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
+- [Light The Way](https://modrinth.com/project/light-the-way) `1.1.2`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
 - [Locked In Slots](https://modrinth.com/project/locked-in-slots) `21.1.0`

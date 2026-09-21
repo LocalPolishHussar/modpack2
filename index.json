@@ -293,6 +293,10 @@
       "sha1": "17f2f9ce6f5a4194a551cd647c4f4ec7ecebd518"
     },
     {
+      "path": "content/mods/light-the-way.json",
+      "sha1": "ea6e82a1db19eff01c00d637a354369a50f2ab70"
+    },
+    {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
