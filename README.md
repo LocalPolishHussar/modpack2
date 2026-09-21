@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 125 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -31,6 +31,7 @@
 - [Comics Bubbles Chat](https://modrinth.com/project/comics-bubbles-chat) `1.4.0`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.1`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Crafting Tweaks](https://modrinth.com/project/crafting-tweaks) `21.1.11+neoforge-1.21.1`
@@ -114,6 +115,7 @@
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.23`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+1.21-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Spotlights or Something](https://modrinth.com/project/spotlights-or-something) `1.3.1`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.8`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`

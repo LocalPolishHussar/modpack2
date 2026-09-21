@@ -1,0 +1,23 @@
+{
+  "name": "Contraption Lights (Bi-directional Coloured Dynamic Lights)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gUdYw8o3",
+      "slug": "contraption-lights",
+      "versionId": "MiaiHBAZ",
+      "versionNumber": "1.5.1",
+      "filename": "contraption-lights-neoforge-1.21.1-1.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gUdYw8o3/versions/MiaiHBAZ/contraption-lights-neoforge-1.21.1-1.5.1.jar",
+      "sha1": "39d150bba172c79123415381ddff9c180bf363fd",
+      "sha512": "8e3e1739aa65739a34bd54a769b8641faddb51c75071733194ac7a541ebd9f270ef896fd82767c961d288b0ce28da7100a4b32947ac7e1eeeb0c2fa2e05243ef",
+      "fileSize": 851178
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

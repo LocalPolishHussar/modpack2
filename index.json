@@ -113,6 +113,10 @@
       "sha1": "84d9269391eff75a8e1d847fac40fddf1ee50113"
     },
     {
+      "path": "content/mods/contraption-lights.json",
+      "sha1": "5d106f861cd8b39b3ea16f836fd7100e72118647"
+    },
+    {
       "path": "content/mods/controlling.json",
       "sha1": "8186006ede3e1d54e6b01519383fa47e31a8e0bd"
     },
@@ -435,6 +439,10 @@
     {
       "path": "content/mods/sodium.json",
       "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
+    },
+    {
+      "path": "content/mods/spotlights-or-something.json",
+      "sha1": "f162f0cdf75eae27e848737cc1e72f93779b2202"
     },
     {
       "path": "content/mods/streams-reflowing.json",
