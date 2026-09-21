@@ -473,6 +473,10 @@
       "sha1": "4462b875c5b36427fb719b95a89cd0c777a09c6c"
     },
     {
+      "path": "content/mods/veil.json",
+      "sha1": "57e5c487eab1d970275c4ca15d539c7a8ed16cc4"
+    },
+    {
       "path": "content/mods/vercte-satchels.json",
       "sha1": "a7d0cd264d5048dfcde4ae5ae6bc0874288529d3"
     },

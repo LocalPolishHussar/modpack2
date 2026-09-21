@@ -1,0 +1,23 @@
+{
+  "name": "Veil",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3KUWeVhG",
+      "slug": "veil",
+      "versionId": "NJrA7V8Y",
+      "versionNumber": "4.5.0",
+      "filename": "veil-neoforge-1.21.1-4.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3KUWeVhG/versions/NJrA7V8Y/veil-neoforge-1.21.1-4.5.0.jar",
+      "sha1": "1c506b969143edb0054986bd4f3401af98f60e15",
+      "sha512": "ed11de1bb1b8896bd8d783f9d64257a747197bec3e6d28fa8c108467e9b8acaad9b5ea356738157502544818911688b2550325fdd303d29023d4434c1429b018",
+      "fileSize": 3399158
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}
