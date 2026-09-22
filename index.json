@@ -322,7 +322,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "aa4208f66789caef9e7fe8b2c440691956cc891f"
+      "sha1": "15dcec2b1a01acfa6068e6e0ae01c8792bbbad21"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -483,10 +483,6 @@
     {
       "path": "content/mods/vercte-satchels.json",
       "sha1": "a7d0cd264d5048dfcde4ae5ae6bc0874288529d3"
-    },
-    {
-      "path": "content/mods/vista_tv.json",
-      "sha1": "bc0a3162b65223768e96117f40b5e60596a97f67"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",

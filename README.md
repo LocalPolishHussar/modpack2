@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 124 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -128,7 +128,6 @@
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.6`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.2-1.21.1-neoforge`
