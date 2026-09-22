@@ -186,7 +186,7 @@
     },
     {
       "path": "content/mods/distanthorizons.json",
-      "sha1": "9499b7cf66e257c723700d2320634be8ff5278c4"
+      "sha1": "fa6c8c8234e728a40fe4cd479ab679699a0ffd97"
     },
     {
       "path": "content/mods/emi.json",
@@ -749,14 +749,6 @@
       "sha1": "18609d91f4e804f3ed6dd9f6be0d57b18b1409ca"
     },
     {
-      "path": "overrides/config/comicsbubbleschat/client.json",
-      "sha1": "888a4afc11c9569839e9ea6712f10b008379f687"
-    },
-    {
-      "path": "overrides/config/comicsbubbleschat/server.json",
-      "sha1": "3981a419268926825776d75f45f0ef79c1448f9d"
-    },
-    {
       "path": "overrides/config/connectiblechains.toml",
       "sha1": "d559a2baf585762182ff940a6aee87f453a825dd"
     },
@@ -1105,10 +1097,6 @@
       "sha1": "9446a028f725952b57f12ecde1ebb52776738b25"
     },
     {
-      "path": "overrides/config/personality-client.toml",
-      "sha1": "22c5022eea44fc266b7be9b5b1cae9e795c1aeab"
-    },
-    {
       "path": "overrides/config/personality-common.toml",
       "sha1": "c319eb62e32d1c1734470312bfb4dde09fa5496a"
     },
@@ -1223,10 +1211,6 @@
     {
       "path": "overrides/config/ssrd-common.toml",
       "sha1": "f7acc95333d1432abe635649169eea8a07b6913d"
-    },
-    {
-      "path": "overrides/config/streamsreflowing-client.toml",
-      "sha1": "d89b8358186d313d0a1a50167ac6cdd717471822"
     },
     {
       "path": "overrides/config/streamsreflowing-common.toml",
@@ -1401,16 +1385,8 @@
       "sha1": "e525134cb953448b2950c73770facf8b2d345aa5"
     },
     {
-      "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "a2229fda11749beda7dfe9fbe4725135c2eff762"
-    },
-    {
       "path": "overrides/config/supplementaries-common.toml",
       "sha1": "216d1ca18af5b73f357c6d8bcf1f9ce59b296ca6"
-    },
-    {
-      "path": "overrides/config/teallib-client.toml",
-      "sha1": "24ac37f66212acfc19fe966fd1e5d75940560307"
     },
     {
       "path": "overrides/config/tectonic.json",
@@ -1423,10 +1399,6 @@
     {
       "path": "overrides/config/transition.json",
       "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5"
-    },
-    {
-      "path": "overrides/config/treephysics-client.toml",
-      "sha1": "5e0829d73c2b92f6cb3da35dc034a3ac15220577"
     },
     {
       "path": "overrides/config/treephysics-common.toml",
@@ -1459,10 +1431,6 @@
     {
       "path": "overrides/config/watut-server.toml",
       "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
-    },
-    {
-      "path": "overrides/config/whitenoise-client.toml",
-      "sha1": "180751e56fb5890ee44d09edc2f91224ea80300f"
     },
     {
       "path": "overrides/config/yacl.json5",
