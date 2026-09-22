@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 124 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -63,6 +63,7 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.17.0-1.21.1-neoforge`
 - [Flerovium](https://modrinth.com/project/flerovium) `1.1.3`
+- [Frame by Frame](https://modrinth.com/project/frame-by-frame) `0.9.321`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`

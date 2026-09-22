@@ -214,7 +214,7 @@
     },
     {
       "path": "content/mods/exposure.json",
-      "sha1": "bfdef935f312203c9e6dcd5f4597ce7ac55c0a11"
+      "sha1": "94e2368c995a99ed308a9373b8126aeb8910c5a3"
     },
     {
       "path": "content/mods/farmers-delight.json",
@@ -227,6 +227,10 @@
     {
       "path": "content/mods/flerovium.json",
       "sha1": "3c896f2b28e0d09cc2050e1900b5f42e0a1ae407"
+    },
+    {
+      "path": "content/mods/frame-by-frame.json",
+      "sha1": "a1cb41fc41fc2f245ab29e1be1dd9d24112f83a2"
     },
     {
       "path": "content/mods/geckolib.json",

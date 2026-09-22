@@ -1,0 +1,23 @@
+{
+  "name": "Frame by Frame",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "geHonYe9",
+      "slug": "frame-by-frame",
+      "versionId": "rLo1ZTPw",
+      "versionNumber": "0.9.321",
+      "filename": "frame-by-frame-0.9.321.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/geHonYe9/versions/rLo1ZTPw/frame-by-frame-0.9.321.jar",
+      "sha1": "1e585fd3562a634ff995a382899abbfa20451f05",
+      "sha512": "792e91b14a76b7d3b5fe9819c0e00b4acd0cac2f8546c0161e004938f5013c994ebe71b66bc9dd8b0391a070b6d552753bde83897d640f51c0183476fa0dd3dc",
+      "fileSize": 1198780
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
