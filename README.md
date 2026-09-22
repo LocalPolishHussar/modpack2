@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 122 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 124 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -76,6 +76,8 @@
 - [IronSable](https://modrinth.com/project/ironsable) `1.2.0`
 - [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.0+1.21.1-neoforge`
 - [Jaam's Weaponry](https://modrinth.com/project/jaams-weaponry) `1.1.2`
+- [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
+- [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Lamb Lanterns](https://modrinth.com/project/lamb-lanterns) `1.2.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`

@@ -281,6 +281,14 @@
       "sha1": "bfff7aa7c1820b10979124274317fbe9706259ab"
     },
     {
+      "path": "content/mods/jade-sable-compat.json",
+      "sha1": "2476c8e94a1596d4aabe3b4660cfa9a2d485fcad"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+    },
+    {
       "path": "content/mods/labels.json",
       "sha1": "1d6d49218c79dcc9e0b1b6057220c90a3eb105a1"
     },
