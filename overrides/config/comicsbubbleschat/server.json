@@ -1,8 +1,0 @@
-{
-  "chatListener": true,
-  "hideChatMessage": false,
-  "commandName": "",
-  "messageSuccess": "",
-  "bubbleRange": 50.0,
-  "throughBlock": true
-}
