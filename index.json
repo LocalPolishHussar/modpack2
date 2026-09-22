@@ -209,12 +209,8 @@
       "sha1": "87a195f57155268460426cc4c5aa541fba7dc487"
     },
     {
-      "path": "content/mods/exposure-polaroid.json",
-      "sha1": "ee3c6592011a23ca34bf434c528e2da3333ac1e7"
-    },
-    {
       "path": "content/mods/exposure.json",
-      "sha1": "94e2368c995a99ed308a9373b8126aeb8910c5a3"
+      "sha1": "46ce5a4856c66c199295534df68a265a2408fd5c"
     },
     {
       "path": "content/mods/farmers-delight.json",

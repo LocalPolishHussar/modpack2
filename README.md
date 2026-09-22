@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 124 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -56,7 +56,6 @@
 - [Experience Obliterator](https://modrinth.com/project/experience-obliterator) `1.0.1-1.21.1-neoforge`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
 - [Exposure: Detective](https://modrinth.com/project/exposure-detective) `1.0.1`
-- [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
 - [Farcr's Re-Create](https://modrinth.com/project/farcrs-re-create) `V1.6`
