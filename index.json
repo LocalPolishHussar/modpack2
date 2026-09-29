@@ -477,10 +477,6 @@
       "sha1": "1b223658d0554da7ff01b486c29bfe043eeb92fd"
     },
     {
-      "path": "content/mods/true-darkness-biomes.json",
-      "sha1": "4462b875c5b36427fb719b95a89cd0c777a09c6c"
-    },
-    {
       "path": "content/mods/veil.json",
       "sha1": "44db0b3773550395d3d75f565b55bac59b9a1481"
     },
@@ -590,7 +586,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "a15b03288fc9876ddb059e60090a1105707539c0"
+      "sha1": "a1d86ca806b26d347f02178ca6dcb421a0585eb9"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -954,7 +950,7 @@
     },
     {
       "path": "overrides/config/darkness-client.toml",
-      "sha1": "66376076ea8cd101a3951072810167b9db598839"
+      "sha1": "86cbdb20229668233b7f6382c4da6377ef247c8f"
     },
     {
       "path": "overrides/config/deathfinder-client.toml",
@@ -1511,10 +1507,6 @@
     {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "489d0c9b22833f57f96d5238532e490c37e22f2d"
     },
     {
       "path": "overrides/ponders_watched_azimuth.json",

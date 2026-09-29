@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 124 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 123 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -126,7 +126,6 @@
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
-- [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
 - [Veil](https://modrinth.com/project/veil) `4.5.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
