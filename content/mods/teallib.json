@@ -18,7 +18,8 @@
     }
   },
   "dependents": [
-    "64LYq6Wj"
+    "64LYq6Wj",
+    "rex9wwpz"
   ],
   "clientSide": "required",
   "serverSide": "required"

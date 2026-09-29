@@ -1,0 +1,23 @@
+{
+  "name": "Handheld Moon - (with flashlight)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pKlHQBvX",
+      "slug": "handheld-moon",
+      "versionId": "6S70zJEM",
+      "versionNumber": "1.1.0-fix",
+      "filename": "HandheldMoon-neoforge-1.21.1-1.1.0-fix.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pKlHQBvX/versions/6S70zJEM/HandheldMoon-neoforge-1.21.1-1.1.0-fix.jar",
+      "sha1": "caaab3e372c4b0cc547814408c2eb46466bae86a",
+      "sha512": "76f4558b05866b2816f865e5f9dd4d2a1329b7b328c5dc91922ddea2b11af9690f6798108e22d93a79e3e2719a39211df21278a9c88e4e78aef3a92e4b0b55e7",
+      "fileSize": 149323
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

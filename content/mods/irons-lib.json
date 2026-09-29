@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "9nfaJPtX",
       "slug": "irons-lib",
-      "versionId": "sQyzhxuH",
-      "versionNumber": "1.21.1-2.1.0",
-      "filename": "irons_lib-1.21.1-2.1.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/9nfaJPtX/versions/sQyzhxuH/irons_lib-1.21.1-2.1.0.jar",
-      "sha1": "70fba64d12b6ff9553580e52101d989c89297797",
-      "sha512": "63f4c2575ac6e031e28d36f87a84d823ebfad389aee49f5315cdf3cfd47af3fa3b8f546af986e48dba72466a0d63c08158b885fc415497c237361ca57dc8e99b",
-      "fileSize": 406284
+      "versionId": "lUwUKYPl",
+      "versionNumber": "1.21.1-2.2.0",
+      "filename": "irons_lib-1.21.1-2.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9nfaJPtX/versions/lUwUKYPl/irons_lib-1.21.1-2.2.0.jar",
+      "sha1": "33ca1a58dc0b384a6de26171f34b3bf608aaeeb2",
+      "sha512": "2a7c61843b57a93d80f963469c4c4cad027a0bf11bc39112112444a41da2283704547037254cd732f12d781a3b8a3f17f3d0d45c965f3ebc5fe8d63adbe6a1ab",
+      "fileSize": 462255
     }
   },
   "dependents": [],

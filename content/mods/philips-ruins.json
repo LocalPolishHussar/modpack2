@@ -1,0 +1,23 @@
+{
+  "name": "Philips Ruins",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KdJhOYVV",
+      "slug": "philips-ruins",
+      "versionId": "EQHGxQAv",
+      "versionNumber": "1.21.1-2.0",
+      "filename": "Philips-Ruins1.21.1-2.0-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KdJhOYVV/versions/EQHGxQAv/Philips-Ruins1.21.1-2.0-NeoForge.jar",
+      "sha1": "9f7d66f2cd75bef6692f5a433e7606d0d77251fc",
+      "sha512": "e18119706fe065ccf571abc5d3f0e2badc95e26cee0ba5641aa88a67c2238ce2fd589459969a7691ae246658c601d7d35cc87562cc7b40b345965cbdd23fe2c6",
+      "fileSize": 1365582
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

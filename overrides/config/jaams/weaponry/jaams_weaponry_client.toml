@@ -1,6 +1,103 @@
-			["Assorted Client Handler"."Weapon Traits"."Item Traits Settings"."Whirling Strike"]
+			["Assorted Client Handler"."Custom Animations Handler"."Item Traits Animations"."Whirling Strike"]
 				#Enable or disable the whirling strike arm animation in third person
 				"Whirling Strike Arm Animation" = true
+
+		["Assorted Client Handler"."Custom Animations Handler"."Gun System Animations"]
+			#Enable or disable the first person cooldown animation for guns
+			"Gun Cooldown First Person Animation" = true
+			#When disabled the arm keeps the normal stance while the gun is on cooldown
+			"Gun Cooldown Third Person Animation" = false
+
+		["Assorted Client Handler"."Gun System Client Handler"."Gun Client Settings"]
+			#Enable or disable gun inventory sounds
+			"Gun Inventory Sounds" = true
+			#Key to press with right-click to open gun inventory (ALT, SHIFT, or CONTROL)
+			#Allowed Values: ALT, SHIFT, CONTROL
+			"Gun Inventory Key" = "SHIFT"
+
+		["Assorted Client Handler"."Gun System Client Handler"."Gun Pose Settings"]
+			#Enable or disable the gun aiming pose in third person. Disables the aiming pose for all guns
+			"Gun Aiming Pose" = true
+			#Enable or disable the smooth blend when entering/leaving the aiming pose and when swinging
+			"Gun Aiming Pose Blend" = true
+
+		["Assorted Client Handler"."Gun System Client Handler"."Gun Bar Settings"]
+			#Master toggle for gun color bars. When disabled, both the ammo bar and the attachment bar are hidden
+			"Show Gun Bars" = true
+			#X position of the ammo bar
+			# Default: 2
+			# Range: > -2147483648
+			"Ammo Bar X" = 2
+			#Y position of the ammo bar
+			# Default: 13
+			# Range: > -2147483648
+			"Ammo Bar Y" = 13
+			#X position of the attachment bar (independent from the ammo bar)
+			# Default: 2
+			# Range: > -2147483648
+			"Attachment Bar X" = 2
+			#Y position of the attachment bar (independent from the ammo bar)
+			# Default: 13
+			# Range: > -2147483648
+			"Attachment Bar Y" = 13
+			#Use only the default color for the bar instead of bullet colors
+			"Ammo Bar Default Color" = false
+			#For revolvers and pepperboxes: color each slot of the ammo bar with that slot's bullet color instead of the current slot's color
+			"Ammo Bar Slot Colors" = false
+
+		["Assorted Client Handler"."Gun System Client Handler"."Gun Overlay Settings"]
+			#Overlay position on the screen
+			#Allowed Values: TOP, BOTTOM
+			"Overlay Position" = "BOTTOM"
+			#Enable or disable bullet render on Overlay
+			"Show Gun Storage Overlay" = true
+			#Enable background for the overlay
+			"Background Enabled" = true
+			#Background color for the overlay
+			#Allowed Values: BLACK, WHITE, LIGHT_GRAY, DARK_GRAY, RED, GREEN, BLUE, PINK, ORANGE, LAVENDER, MINT, SANDY_BEIGE, GOLDEN, OLIVE, PALE_YELLOW, LIGHT_BROWN, BROWN, CYAN, PURPLE, TEAL, BEIGE, TURQUOISE, FUCHSIA
+			"Background Color" = "BLACK"
+			#Transparency level for the overlay background
+			#Allowed Values: TRANSPARENT, SEMI_TRANSPARENT, OPAQUE
+			"Background Transparency" = "TRANSPARENT"
+			#Border color for the overlay
+			#Allowed Values: BLACK, WHITE, LIGHT_GRAY, DARK_GRAY, RED, GREEN, BLUE, PINK, ORANGE, LAVENDER, MINT, SANDY_BEIGE, GOLDEN, OLIVE, PALE_YELLOW, LIGHT_BROWN, BROWN, CYAN, PURPLE, TEAL, BEIGE, TURQUOISE, FUCHSIA
+			"Border Color" = "WHITE"
+			#Border thickness for the overlay background
+			# Default: 1
+			# Range: 0 ~ 3
+			"Border Thickness" = 1
+			#Enable or disable rendering of slot 0
+			"Render Slot 0" = true
+			#Enable or disable rendering of slot 1
+			"Render Slot 1" = true
+			#Enable or disable rendering of slot 2
+			"Render Slot 2" = true
+
+			["Assorted Client Handler"."Gun System Client Handler"."Gun Overlay Settings"."Pepperbox Overlay Settings"]
+				#For pepperboxes, show every loaded barrel in the storage overlay. When disabled, only the first loaded barrel is shown (chamber 1 has priority)
+				"Pepperbox Extended Overlay" = true
+				#For the extended pepperbox overlay, when many barrels are loaded arrange them in two rows so the overlay takes less horizontal space and does not collide with other HUD elements
+				"Pepperbox Overlay Two Rows" = true
+
+			["Assorted Client Handler"."Gun System Client Handler"."Gun Overlay Settings"."Main Hand Overlay Position"]
+				#X position of the main hand gun storage overlay
+				# Default: 0
+				# Range: > -2147483648
+				"Main Hand Overlay X" = 0
+				#Y position of the main hand gun storage overlay
+				# Default: 0
+				# Range: > -2147483648
+				"Main Hand Overlay Y" = 0
+
+			["Assorted Client Handler"."Gun System Client Handler"."Gun Overlay Settings"."Off Hand Overlay Position"]
+				#X position of the off hand gun storage overlay
+				# Default: 0
+				# Range: > -2147483648
+				"Off Hand Overlay X" = 0
+				#Y position of the off hand gun storage overlay
+				# Default: 0
+				# Range: > -2147483648
+				"Off Hand Overlay Y" = 0
 
 ["Camera Effects Handler"]
 	#Enable or disable screen shake effects on certain actions (explosions, heavy hits, etc.)
@@ -9,85 +106,6 @@
 ["Creative Tab Handler"]
 	#The item to use as the creative tab icon (requires restart)
 	"Creative Tab Icon" = "jaams_weaponry:iron_buster_sword"
-
-	["Gun System Client Handler"."Gun Client Settings"]
-		#Enable or disable gun inventory sounds
-		"Gun Inventory Sounds" = true
-		#Key to press with right-click to open gun inventory (ALT, SHIFT, or CONTROL)
-		#Allowed Values: ALT, SHIFT, CONTROL
-		"Gun Inventory Key" = "SHIFT"
-		#Enable or disable the default aiming pose for guns
-		"Gun Default Aiming Pose" = true
-		#Enable or disable the gun aiming arm animation in third person
-		"Gun Aiming Arm Animation" = true
-		#Enable or disable the cooldown animation for guns
-		"Gun Cooldown Animation" = true
-		#How far guns drop down during cooldown animation
-		# Default: 0.15
-		# Range: 0.0 ~ 2.0
-		"Gun Cooldown Drop" = 0.15
-
-	["Gun System Client Handler"."Gun Bar Settings"]
-		#Enable or disable the gun color bar
-		"Show Gun Bar" = true
-		#X position of the gun color bar
-		# Default: 2
-		# Range: > -2147483648
-		"Gun Bar X" = 2
-		#Y position of the gun color bar
-		# Default: 13
-		# Range: > -2147483648
-		"Gun Bar Y" = 13
-		#Use only the default color for the bar instead of bullet colors
-		"Gun Default Color" = false
-
-	["Gun System Client Handler"."Gun Overlay Settings"]
-		#Overlay position on the screen
-		#Allowed Values: TOP, BOTTOM
-		"Overlay Position" = "BOTTOM"
-		#Enable or disable bullet render on Overlay
-		"Show Gun Storage Overlay" = true
-		#Enable background for the overlay
-		"Background Enabled" = true
-		#Background color for the overlay
-		#Allowed Values: BLACK, WHITE, LIGHT_GRAY, DARK_GRAY, RED, GREEN, BLUE, PINK, ORANGE, LAVENDER, MINT, SANDY_BEIGE, GOLDEN, OLIVE, PALE_YELLOW, LIGHT_BROWN, BROWN, CYAN, PURPLE, TEAL, BEIGE, TURQUOISE, FUCHSIA
-		"Background Color" = "BLACK"
-		#Transparency level for the overlay background
-		#Allowed Values: TRANSPARENT, SEMI_TRANSPARENT, OPAQUE
-		"Background Transparency" = "TRANSPARENT"
-		#Border color for the overlay
-		#Allowed Values: BLACK, WHITE, LIGHT_GRAY, DARK_GRAY, RED, GREEN, BLUE, PINK, ORANGE, LAVENDER, MINT, SANDY_BEIGE, GOLDEN, OLIVE, PALE_YELLOW, LIGHT_BROWN, BROWN, CYAN, PURPLE, TEAL, BEIGE, TURQUOISE, FUCHSIA
-		"Border Color" = "WHITE"
-		#Border thickness for the overlay background
-		# Default: 1
-		# Range: 0 ~ 3
-		"Border Thickness" = 1
-		#Enable or disable rendering of slot 0
-		"Render Slot 0" = true
-		#Enable or disable rendering of slot 1
-		"Render Slot 1" = true
-		#Enable or disable rendering of slot 2
-		"Render Slot 2" = true
-
-		["Gun System Client Handler"."Gun Overlay Settings"."Main Hand Overlay Position"]
-			#X position of the main hand gun storage overlay
-			# Default: 0
-			# Range: > -2147483648
-			"Main Hand Overlay X" = 0
-			#Y position of the main hand gun storage overlay
-			# Default: 0
-			# Range: > -2147483648
-			"Main Hand Overlay Y" = 0
-
-		["Gun System Client Handler"."Gun Overlay Settings"."Off Hand Overlay Position"]
-			#X position of the off hand gun storage overlay
-			# Default: 0
-			# Range: > -2147483648
-			"Off Hand Overlay X" = 0
-			#Y position of the off hand gun storage overlay
-			# Default: 0
-			# Range: > -2147483648
-			"Off Hand Overlay Y" = 0
 
 		["Item Status Bars Handler"."Item Traits Bar Settings"."After Strike Bar Settings"]
 			#Show or hide the After Strike status bar
@@ -143,7 +161,7 @@
 			# Range: -100 ~ 100
 			"Bar Y Offset" = 13
 			#Hex color (AARRGGBB) for the Buster Strike bar
-			"Bar Hex Color" = "FFFF4444"
+			"Bar Hex Color" = "FFFF8800"
 
 	["Projectile Client Handler"."Axe Projectile"]
 		#Visual size scale of the Axe projectile
@@ -292,8 +310,10 @@
 			"Show Gun Base Ammo" = true
 			#Show the attachments line in gun tooltips
 			"Show Gun Attachments" = true
-			#Use roman numerals for revolver chamber labels in tooltip
-			"Revolver Roman Numerals" = true
+			#Show attachment properties in attachment tooltips
+			"Show Attachment Properties" = true
+			#Use roman numerals for gun chamber labels in tooltip
+			"Gun Chambers Roman Numerals" = true
 
 		["Tooltips System Handler"."Item Features Tooltips".Slingshots]
 			#Show the base ammo line in slingshot tooltips

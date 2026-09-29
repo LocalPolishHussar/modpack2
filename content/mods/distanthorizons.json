@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "uCdwusMi",
       "slug": "distanthorizons",
-      "versionId": "Ez3cx7Yd",
-      "versionNumber": "3.3.2-1.21.1",
-      "filename": "DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ez3cx7Yd/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
-      "sha1": "d18b0829416ec6948102524b6e913e5bc73ae402",
-      "sha512": "758d9591bb63a7851d368b6439135ec35ceb3b22e35723fca26433c4069be87c4098a23e8fc590be61903ac92e6ae1e3e1adf5beb744e6226c1fe70dd1933011",
-      "fileSize": 28224156
+      "versionId": "9w34y8ai",
+      "versionNumber": "3.3.3-1.21.1",
+      "filename": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+      "sha512": "d14b32d3fd143a06514d6ad388eee11e9d657c84e1a937aaf8d033b1137fb43ef8b05cff1011a994cc42f3106823c51234f8bc18d72bb05bc317a20ea83c50ed",
+      "fileSize": 28289212
     }
   },
   "dependents": [],

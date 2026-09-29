@@ -1,0 +1,23 @@
+{
+  "name": "Explorify",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HSfsxuTo",
+      "slug": "explorify",
+      "versionId": "CuBdAr31",
+      "versionNumber": "v1.6.5",
+      "filename": "Explorify v1.6.5.mod.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/CuBdAr31/Explorify%20v1.6.5.mod.jar",
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd",
+      "sha512": "9b22adeb1952ec25856e160b93aaa41934fd41e8d1aef985317cb2c9d64aae1012e134e23f52ba39fac3a98b3309b60f0b55b98a4db4de1731960b998117c83e",
+      "fileSize": 767884
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

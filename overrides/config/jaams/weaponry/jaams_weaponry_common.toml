@@ -1,3 +1,512 @@
+		["Assorted Common Handler"."Gun System Common Handler"."Gun Inventory Settings"]
+			#Enable or disable the gun inventory
+			"Gun Inventory" = true
+
+		["Assorted Common Handler"."Gun System Common Handler"."Gun Cooldown Settings"]
+			#If true, firing any gun will trigger a cooldown on ALL guns in the player's inventory.
+			"Global Cooldown" = false
+			#If true, firing a gun will trigger a cooldown on all guns of the SAME TYPE (e.g., shooting a pistol cools down all pistols). Ignored if Global Cooldown is true.
+			"Cooldown By Gun Type" = true
+
+		["Assorted Common Handler"."Gun System Common Handler"."Gun Ammo Settings"]
+			#Take ammo from the gun's inventory
+			"Ammo From Gun Inventory" = true
+			#Take ammo from the player's inventory
+			"Ammo From Player Inventory" = false
+			#Take ammo from the player's hands
+			"Ammo From Player Hands" = false
+
+		["Assorted Common Handler"."Gun System Common Handler"."Gun Interaction Settings"]
+			#Enable bundle-like insert/extract behavior when right-clicking guns in containers
+			"Bundle-Like Gun Interaction" = true
+
+		["Assorted Common Handler"."Gun System Common Handler"."Gun Capacity Settings"]
+			#Default maximum ammo for pistols (max 64)
+			# Default: 16
+			# Range: 1 ~ 64
+			"Pistol Max Ammo Capacity" = 16
+			#Default maximum ammo for scatterguns (max 64)
+			# Default: 32
+			# Range: 1 ~ 64
+			"Scattergun Max Ammo Capacity" = 32
+			#Default maximum ammo for shotguns (max 64)
+			# Default: 8
+			# Range: 1 ~ 64
+			"Shotgun Max Ammo Capacity" = 8
+			#Maximum ammo items per chamber slot for revolver
+			# Default: 1
+			# Range: 1 ~ 64
+			"Revolver Max Ammo Capacity" = 1
+			#Maximum ammo items per barrel slot for pepperbox
+			# Default: 1
+			# Range: 1 ~ 64
+			"Pepperbox Max Ammo Capacity" = 1
+
+			["Assorted Common Handler"."Gun System Common Handler"."Gun Shoot Settings"."Pistol Shoot"]
+				#Projectile damage modifier (only applied if > 0)
+				# Default: 6.0
+				# Range: 0.0 ~ 100.0
+				"Projectile Damage Modifier" = 6.0
+				#Projectile knockback modifier (only applied if > 0)
+				# Default: 0.1
+				# Range: 0.0 ~ 5.0
+				"Projectile Knockback Modifier" = 0.1
+				#Projectile piercing modifier (only applied if > 0)
+				# Default: 0
+				# Range: 0 ~ 10
+				"Projectile Piercing Modifier" = 0
+				#Number of projectiles fired per shot (1 = normal pistol)
+				# Default: 1
+				# Range: 1 ~ 100
+				"Projectile Count" = 1
+				#Inaccuracy/spread in degrees for the pistol shoot (0 = perfect aim)
+				# Default: 0.0
+				# Range: 0.0 ~ 10.0
+				Inaccuracy = 0.0
+				#Cooldown for pistol in ticks
+				# Default: 30
+				# Range: 0 ~ 72000
+				Cooldown = 30
+				#Offhand cooldown for pistol
+				# Default: 10
+				# Range: 0 ~ 72000
+				"Offhand Cooldown" = 10
+				#Default modifier for pistol
+				# Default: 1.0
+				# Range: 0.1 ~ 10.0
+				"Default Modifier" = 1.0
+				#Spread angle for pistol shot (degrees)
+				# Default: 0.0
+				# Range: 0.0 ~ 30.0
+				"Spread Angle" = 0.0
+				#Fire pattern for pistol: DEFAULT, LINE, HORIZONTAL, VERTICAL, CIRCLE, STAR, DIAMOND
+				#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
+				"Shot Fire Pattern" = "DEFAULT"
+				#Gun shot size for pistol
+				# Default: 0.8
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Size" = 0.8
+				#Gun shot distance for pistol
+				# Default: 0.8
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Distance" = 0.8
+				#Shake intensity for pistol
+				# Default: 0.5
+				# Range: 0.0 ~ 50.0
+				"Shake Intensity" = 0.5
+				#Shake reset delay for pistol
+				# Default: 5
+				# Range: 0 ~ 50
+				"Shake Reset Delay" = 5
+				#Recoil distance for pistol
+				# Default: 0.5
+				# Range: 0.0 ~ 50.0
+				Recoil = 0.5
+				#Vertical recoil multiplier for pistol
+				# Default: 0.45
+				# Range: 0.0 ~ 2.0
+				"Recoil Vertical Multiplier" = 0.45
+				#Crouch recoil reduction for pistol
+				# Default: 0.6
+				# Range: 0.0 ~ 1.0
+				"Recoil Crouch Reduction" = 0.6
+				#X rotation recoil intensity for pistol
+				# Default: 1.75
+				# Range: 0.0 ~ 10.0
+				"Recoil Pitch Kick" = 1.75
+				#Projectile base speed for pistol
+				# Default: 4.5
+				# Range: 0.1 ~ 50.0
+				"Projectile Speed" = 4.5
+				#Muzzle modifier for pistol
+				# Default: 1.5
+				# Range: 0.1 ~ 5.0
+				"Muzzle Modifier" = 1.5
+				#Magazine modifier for pistol
+				# Default: 2.0
+				# Range: 0.1 ~ 5.0
+				"Magazine Modifier" = 2.0
+				#How many bullets are consumed per shot
+				# Default: 1
+				# Range: 1 ~ 64
+				"Ammo Consumption" = 1
+				#Attachment items consumed per pistol shot
+				# Default: 1
+				# Range: 1 ~ 64
+				"Attachment Consumption" = 1
+
+			["Assorted Common Handler"."Gun System Common Handler"."Gun Shoot Settings"."Scattergun Shoot"]
+				#Projectile damage modifier for scattergun
+				# Default: 4.0
+				# Range: 0.0 ~ 100.0
+				"Projectile Damage Modifier" = 4.0
+				#Projectile knockback modifier for scattergun
+				# Default: 0.3
+				# Range: 0.0 ~ 5.0
+				"Projectile Knockback Modifier" = 0.3
+				#Projectile piercing modifier for scattergun
+				# Default: 0
+				# Range: 0 ~ 10
+				"Projectile Piercing Modifier" = 0
+				#Number of projectiles fired per shot (scattergun)
+				# Default: 2
+				# Range: 1 ~ 100
+				"Projectile Count" = 2
+				#Inaccuracy for scattergun
+				# Default: 0.0
+				# Range: 0.0 ~ 15.0
+				Inaccuracy = 0.0
+				#Cooldown for scattergun in ticks
+				# Default: 40
+				# Range: 0 ~ 72000
+				Cooldown = 40
+				#Offhand cooldown for scattergun
+				# Default: 20
+				# Range: 0 ~ 72000
+				"Offhand Cooldown" = 20
+				#Default modifier for scattergun
+				# Default: 1.0
+				# Range: 0.1 ~ 10.0
+				"Default Modifier" = 1.0
+				#Spread angle for scattergun shot
+				# Default: 5.0
+				# Range: 0.0 ~ 40.0
+				"Spread Angle" = 5.0
+				#Fire pattern for scattergun
+				#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
+				"Shot Fire Pattern" = "HORIZONTAL"
+				#Gun shot size for scattergun
+				# Default: 1.2
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Size" = 1.2
+				#Gun shot distance for scattergun
+				# Default: 1.0
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Distance" = 1.0
+				#Shake intensity for scattergun
+				# Default: 1.5
+				# Range: 0.0 ~ 50.0
+				"Shake Intensity" = 1.5
+				#Shake reset delay for scattergun
+				# Default: 6
+				# Range: 0 ~ 50
+				"Shake Reset Delay" = 6
+				#Recoil distance for scattergun
+				# Default: 0.7
+				# Range: 0.0 ~ 50.0
+				Recoil = 0.7
+				#Vertical recoil multiplier for scattergun
+				# Default: 0.35
+				# Range: 0.0 ~ 2.0
+				"Recoil Vertical Multiplier" = 0.35
+				#Crouch recoil reduction for scattergun
+				# Default: 0.5
+				# Range: 0.0 ~ 1.0
+				"Recoil Crouch Reduction" = 0.5
+				#X rotation recoil intensity for scattergun
+				# Default: 2.5
+				# Range: 0.0 ~ 10.0
+				"Recoil Pitch Kick" = 2.5
+				#Projectile base speed for scattergun
+				# Default: 3.8
+				# Range: 0.1 ~ 50.0
+				"Projectile Speed" = 3.8
+				#Muzzle modifier for scattergun
+				# Default: 1.8
+				# Range: 0.1 ~ 5.0
+				"Muzzle Modifier" = 1.8
+				#Magazine modifier for scattergun
+				# Default: 2.5
+				# Range: 0.1 ~ 5.0
+				"Magazine Modifier" = 2.5
+				#Ammo consumed per shot for scattergun
+				# Default: 2
+				# Range: 1 ~ 64
+				"Ammo Consumption" = 2
+				#Attachment items consumed per scattergun shot
+				# Default: 2
+				# Range: 1 ~ 64
+				"Attachment Consumption" = 2
+
+			["Assorted Common Handler"."Gun System Common Handler"."Gun Shoot Settings"."Shotgun Shoot"]
+				#Projectile damage modifier for shotgun
+				# Default: 5.5
+				# Range: 0.0 ~ 100.0
+				"Projectile Damage Modifier" = 5.5
+				#Projectile knockback modifier for shotgun
+				# Default: 0.5
+				# Range: 0.0 ~ 5.0
+				"Projectile Knockback Modifier" = 0.5
+				#Projectile piercing modifier for shotgun
+				# Default: 1
+				# Range: 0 ~ 10
+				"Projectile Piercing Modifier" = 1
+				#Number of projectiles fired per shot (shotgun)
+				# Default: 4
+				# Range: 1 ~ 100
+				"Projectile Count" = 4
+				#Inaccuracy for shotgun
+				# Default: 0.05
+				# Range: 0.0 ~ 20.0
+				Inaccuracy = 0.05
+				#Cooldown for shotgun in ticks
+				# Default: 60
+				# Range: 0 ~ 72000
+				Cooldown = 60
+				#Offhand cooldown for shotgun
+				# Default: 20
+				# Range: 0 ~ 72000
+				"Offhand Cooldown" = 20
+				#Default modifier for shotgun
+				# Default: 1.0
+				# Range: 0.1 ~ 10.0
+				"Default Modifier" = 1.0
+				#Spread angle for shotgun shot
+				# Default: 5.5
+				# Range: 0.0 ~ 45.0
+				"Spread Angle" = 5.5
+				#Fire pattern for shotgun
+				#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
+				"Shot Fire Pattern" = "HORIZONTAL"
+				#Gun shot size for shotgun
+				# Default: 1.5
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Size" = 1.5
+				#Gun shot distance for shotgun
+				# Default: 1.2
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Distance" = 1.2
+				#Shake intensity for shotgun
+				# Default: 2.5
+				# Range: 0.0 ~ 50.0
+				"Shake Intensity" = 2.5
+				#Shake reset delay for shotgun
+				# Default: 8
+				# Range: 0 ~ 50
+				"Shake Reset Delay" = 8
+				#Recoil distance for shotgun
+				# Default: 1.8
+				# Range: 0.0 ~ 50.0
+				Recoil = 1.8
+				#Vertical recoil multiplier for shotgun
+				# Default: 0.5
+				# Range: 0.0 ~ 2.0
+				"Recoil Vertical Multiplier" = 0.5
+				#Crouch recoil reduction for shotgun
+				# Default: 0.4
+				# Range: 0.0 ~ 1.0
+				"Recoil Crouch Reduction" = 0.4
+				#X rotation recoil intensity for shotgun
+				# Default: 3.5
+				# Range: 0.0 ~ 12.0
+				"Recoil Pitch Kick" = 3.5
+				#Projectile base speed for shotgun
+				# Default: 3.5
+				# Range: 0.1 ~ 50.0
+				"Projectile Speed" = 3.5
+				#Muzzle modifier for shotgun
+				# Default: 2.0
+				# Range: 0.1 ~ 5.0
+				"Muzzle Modifier" = 2.0
+				#Magazine modifier for shotgun
+				# Default: 3.0
+				# Range: 0.1 ~ 5.0
+				"Magazine Modifier" = 3.0
+				#Ammo consumed per shot for shotgun
+				# Default: 1
+				# Range: 1 ~ 64
+				"Ammo Consumption" = 1
+				#Attachment items consumed per shotgun shot
+				# Default: 1
+				# Range: 1 ~ 64
+				"Attachment Consumption" = 1
+
+			["Assorted Common Handler"."Gun System Common Handler"."Gun Shoot Settings"."Revolver Shoot"]
+				#Projectile damage modifier for revolver
+				# Default: 7.0
+				# Range: 0.0 ~ 100.0
+				"Projectile Damage Modifier" = 7.0
+				#Projectile knockback modifier for revolver
+				# Default: 0.1
+				# Range: 0.0 ~ 5.0
+				"Projectile Knockback Modifier" = 0.1
+				#Projectile piercing modifier for revolver
+				# Default: 0
+				# Range: 0 ~ 10
+				"Projectile Piercing Modifier" = 0
+				#Number of projectiles fired per shot (revolver)
+				# Default: 1
+				# Range: 1 ~ 100
+				"Projectile Count" = 1
+				#Inaccuracy for revolver
+				# Default: 0.0
+				# Range: 0.0 ~ 10.0
+				Inaccuracy = 0.0
+				#Cooldown for revolver in ticks
+				# Default: 25
+				# Range: 0 ~ 72000
+				Cooldown = 25
+				#Offhand cooldown for revolver
+				# Default: 8
+				# Range: 0 ~ 72000
+				"Offhand Cooldown" = 8
+				#Default modifier for revolver
+				# Default: 1.0
+				# Range: 0.1 ~ 10.0
+				"Default Modifier" = 1.0
+				#Spread angle for revolver shot
+				# Default: 0.0
+				# Range: 0.0 ~ 30.0
+				"Spread Angle" = 0.0
+				#Fire pattern for revolver
+				#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
+				"Shot Fire Pattern" = "DEFAULT"
+				#Gun shot size for revolver
+				# Default: 0.8
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Size" = 0.8
+				#Gun shot distance for revolver
+				# Default: 0.8
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Distance" = 0.8
+				#Shake intensity for revolver
+				# Default: 0.6
+				# Range: 0.0 ~ 50.0
+				"Shake Intensity" = 0.6
+				#Shake reset delay for revolver
+				# Default: 5
+				# Range: 0 ~ 50
+				"Shake Reset Delay" = 5
+				#Recoil distance for revolver
+				# Default: 0.6
+				# Range: 0.0 ~ 50.0
+				Recoil = 0.6
+				#Vertical recoil multiplier for revolver
+				# Default: 0.5
+				# Range: 0.0 ~ 2.0
+				"Recoil Vertical Multiplier" = 0.5
+				#Crouch recoil reduction for revolver
+				# Default: 0.6
+				# Range: 0.0 ~ 1.0
+				"Recoil Crouch Reduction" = 0.6
+				#X rotation recoil intensity for revolver
+				# Default: 2.0
+				# Range: 0.0 ~ 10.0
+				"Recoil Pitch Kick" = 2.0
+				#Projectile base speed for revolver
+				# Default: 4.8
+				# Range: 0.1 ~ 50.0
+				"Projectile Speed" = 4.8
+				#Muzzle modifier for revolver
+				# Default: 1.5
+				# Range: 0.1 ~ 5.0
+				"Muzzle Modifier" = 1.5
+				#Magazine modifier for revolver
+				# Default: 2.0
+				# Range: 0.1 ~ 5.0
+				"Magazine Modifier" = 2.0
+				#Ammo consumed per shot for revolver
+				# Default: 1
+				# Range: 1 ~ 64
+				"Ammo Consumption" = 1
+				#Attachment items consumed per revolver shot
+				# Default: 1
+				# Range: 1 ~ 64
+				"Attachment Consumption" = 1
+
+			["Assorted Common Handler"."Gun System Common Handler"."Gun Shoot Settings"."Pepperbox Shoot"]
+				#Projectile damage modifier for pepperbox
+				# Default: 5.0
+				# Range: 0.0 ~ 100.0
+				"Projectile Damage Modifier" = 5.0
+				#Projectile knockback modifier for pepperbox
+				# Default: 0.1
+				# Range: 0.0 ~ 5.0
+				"Projectile Knockback Modifier" = 0.1
+				#Projectile piercing modifier for pepperbox
+				# Default: 0
+				# Range: 0 ~ 10
+				"Projectile Piercing Modifier" = 0
+				#Number of projectiles fired per loaded barrel per pepperbox shot
+				# Default: 1
+				# Range: 1 ~ 100
+				"Projectile Count" = 1
+				#Inaccuracy for pepperbox (each barrel fires with this spread)
+				# Default: 0.2
+				# Range: 0.0 ~ 10.0
+				Inaccuracy = 0.2
+				#Cooldown for pepperbox in ticks
+				# Default: 45
+				# Range: 0 ~ 72000
+				Cooldown = 45
+				#Offhand cooldown for pepperbox
+				# Default: 15
+				# Range: 0 ~ 72000
+				"Offhand Cooldown" = 15
+				#Default modifier for pepperbox
+				# Default: 1.0
+				# Range: 0.1 ~ 10.0
+				"Default Modifier" = 1.0
+				#Spread angle for pepperbox shot
+				# Default: 0.0
+				# Range: 0.0 ~ 30.0
+				"Spread Angle" = 0.0
+				#Fire pattern for pepperbox
+				#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
+				"Shot Fire Pattern" = "CIRCLE"
+				#Gun shot size for pepperbox
+				# Default: 1.0
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Size" = 1.0
+				#Gun shot distance for pepperbox
+				# Default: 1.0
+				# Range: 0.1 ~ 50.0
+				"Gun Shot Distance" = 1.0
+				#Shake intensity for pepperbox
+				# Default: 1.2
+				# Range: 0.0 ~ 50.0
+				"Shake Intensity" = 1.2
+				#Shake reset delay for pepperbox
+				# Default: 6
+				# Range: 0 ~ 50
+				"Shake Reset Delay" = 6
+				#Recoil distance for pepperbox
+				# Default: 1.2
+				# Range: 0.0 ~ 50.0
+				Recoil = 1.2
+				#Vertical recoil multiplier for pepperbox
+				# Default: 0.55
+				# Range: 0.0 ~ 2.0
+				"Recoil Vertical Multiplier" = 0.55
+				#Crouch recoil reduction for pepperbox
+				# Default: 0.5
+				# Range: 0.0 ~ 1.0
+				"Recoil Crouch Reduction" = 0.5
+				#X rotation recoil intensity for pepperbox
+				# Default: 3.0
+				# Range: 0.0 ~ 10.0
+				"Recoil Pitch Kick" = 3.0
+				#Projectile base speed for pepperbox
+				# Default: 4.5
+				# Range: 0.1 ~ 50.0
+				"Projectile Speed" = 4.5
+				#Muzzle modifier for pepperbox
+				# Default: 1.5
+				# Range: 0.1 ~ 5.0
+				"Muzzle Modifier" = 1.5
+				#Magazine modifier for pepperbox
+				# Default: 2.0
+				# Range: 0.1 ~ 5.0
+				"Magazine Modifier" = 2.0
+				#Attachment items consumed per pepperbox shot
+				# Default: 1
+				# Range: 1 ~ 64
+				"Attachment Consumption" = 1
+				#Ammo consumed per fired barrel per pepperbox shot
+				# Default: 1
+				# Range: 1 ~ 64
+				"Ammo Consumption" = 1
+
 	["Custom Effects Handler".Incapable]
 		#Enable or disable the Incapable effect (prevents attacking/using items)
 		Incapable = true
@@ -141,414 +650,6 @@
 		# Default: 20
 		# Range: 0 ~ 300
 		"Archer's Grace Min Use Ticks" = 20
-
-	["Gun System Common Handler"."Gun Inventory Settings"]
-		#Enable or disable the gun inventory
-		"Gun Inventory" = true
-
-	["Gun System Common Handler"."Gun Cooldown Settings"]
-		#If true, firing any gun will trigger a cooldown on ALL guns in the player's inventory.
-		"Global Cooldown" = false
-		#If true, firing a gun will trigger a cooldown on all guns of the SAME TYPE (e.g., shooting a pistol cools down all pistols). Ignored if Global Cooldown is true.
-		"Cooldown By Gun Type" = true
-
-	["Gun System Common Handler"."Gun Ammo Settings"]
-		#Take bullets from the gun's inventory
-		"Bullet From Gun Inventory" = true
-		#Take bullets from the player's inventory
-		"Bullet From Player Inventory" = false
-		#Take bullets from the player's hands
-		"Bullet From Player Hands" = false
-
-	["Gun System Common Handler"."Gun Interaction Settings"]
-		#Enable bundle-like insert/extract behavior when right-clicking guns in containers
-		"Bundle-Like Gun Interaction" = true
-
-	["Gun System Common Handler"."Gun Capacity Settings"]
-		#Default maximum ammo for pistols (max 64)
-		# Default: 16
-		# Range: 1 ~ 64
-		"Pistol Max Ammo Capacity" = 16
-		#Default maximum ammo for scatterguns (max 64)
-		# Default: 32
-		# Range: 1 ~ 64
-		"Scattergun Max Ammo Capacity" = 32
-		#Default maximum ammo for shotguns (max 64)
-		# Default: 8
-		# Range: 1 ~ 64
-		"Shotgun Max Ammo Capacity" = 8
-
-		["Gun System Common Handler"."Gun Shoot Settings"."Pistol Shoot"]
-			#Projectile damage modifier (only applied if > 0)
-			# Default: 6.0
-			# Range: 0.0 ~ 100.0
-			"Projectile Damage Modifier" = 6.0
-			#Projectile knockback modifier (only applied if > 0)
-			# Default: 0.1
-			# Range: 0.0 ~ 5.0
-			"Projectile Knockback Modifier" = 0.1
-			#Projectile piercing modifier (only applied if > 0)
-			# Default: 0
-			# Range: 0 ~ 10
-			"Projectile Piercing Modifier" = 0
-			#Number of projectiles fired per shot (1 = normal pistol)
-			# Default: 1
-			# Range: 1 ~ 100
-			"Projectile Count" = 1
-			#Inaccuracy/spread in degrees for the pistol shoot (0 = perfect aim)
-			# Default: 0.0
-			# Range: 0.0 ~ 10.0
-			Inaccuracy = 0.0
-			#Cooldown for pistol in ticks
-			# Default: 30
-			# Range: 0 ~ 72000
-			Cooldown = 30
-			#Offhand cooldown for pistol
-			# Default: 10
-			# Range: 0 ~ 72000
-			"Offhand Cooldown" = 10
-			#Default modifier for pistol
-			# Default: 1.0
-			# Range: 0.1 ~ 10.0
-			"Default Modifier" = 1.0
-			#Spread angle for pistol shot (degrees)
-			# Default: 0.0
-			# Range: 0.0 ~ 30.0
-			"Spread Angle" = 0.0
-			#Fire pattern for pistol: DEFAULT, LINE, HORIZONTAL, VERTICAL, CIRCLE, STAR, DIAMOND
-			#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
-			"Shot Fire Pattern" = "DEFAULT"
-			#Gun shot size for pistol
-			# Default: 0.8
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Size" = 0.8
-			#Gun shot distance for pistol
-			# Default: 0.8
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Distance" = 0.8
-			#Shake intensity for pistol
-			# Default: 0.5
-			# Range: 0.0 ~ 50.0
-			"Shake Intensity" = 0.5
-			#Shake reset delay for pistol
-			# Default: 5
-			# Range: 0 ~ 50
-			"Shake Reset Delay" = 5
-			#Recoil distance for pistol
-			# Default: 0.5
-			# Range: 0.0 ~ 50.0
-			Recoil = 0.5
-			#Vertical recoil multiplier for pistol
-			# Default: 0.45
-			# Range: 0.0 ~ 2.0
-			"Recoil Vertical Multiplier" = 0.45
-			#Crouch recoil reduction for pistol
-			# Default: 0.6
-			# Range: 0.0 ~ 1.0
-			"Recoil Crouch Reduction" = 0.6
-			#X rotation recoil intensity for pistol
-			# Default: 1.75
-			# Range: 0.0 ~ 10.0
-			"Recoil Pitch Kick" = 1.75
-			#Projectile base speed for pistol
-			# Default: 4.5
-			# Range: 0.1 ~ 50.0
-			"Projectile Speed" = 4.5
-			#Muzzle modifier for pistol
-			# Default: 1.5
-			# Range: 0.1 ~ 5.0
-			"Muzzle Modifier" = 1.5
-			#Magazine modifier for pistol
-			# Default: 2.0
-			# Range: 0.1 ~ 5.0
-			"Magazine Modifier" = 2.0
-			#How many bullets are consumed per shot
-			# Default: 1
-			# Range: 1 ~ 64
-			"Ammo Consumption" = 1
-			#Attachment items consumed per pistol shot
-			# Default: 1
-			# Range: 1 ~ 64
-			"Attachment Consumption" = 1
-
-		["Gun System Common Handler"."Gun Shoot Settings"."Scattergun Shoot"]
-			#Projectile damage modifier for scattergun
-			# Default: 4.0
-			# Range: 0.0 ~ 100.0
-			"Projectile Damage Modifier" = 4.0
-			#Projectile knockback modifier for scattergun
-			# Default: 0.3
-			# Range: 0.0 ~ 5.0
-			"Projectile Knockback Modifier" = 0.3
-			#Projectile piercing modifier for scattergun
-			# Default: 0
-			# Range: 0 ~ 10
-			"Projectile Piercing Modifier" = 0
-			#Number of projectiles fired per shot (scattergun)
-			# Default: 2
-			# Range: 1 ~ 100
-			"Projectile Count" = 2
-			#Inaccuracy for scattergun
-			# Default: 0.0
-			# Range: 0.0 ~ 15.0
-			Inaccuracy = 0.0
-			#Cooldown for scattergun in ticks
-			# Default: 40
-			# Range: 0 ~ 72000
-			Cooldown = 40
-			#Offhand cooldown for scattergun
-			# Default: 20
-			# Range: 0 ~ 72000
-			"Offhand Cooldown" = 20
-			#Default modifier for scattergun
-			# Default: 1.0
-			# Range: 0.1 ~ 10.0
-			"Default Modifier" = 1.0
-			#Spread angle for scattergun shot
-			# Default: 5.0
-			# Range: 0.0 ~ 40.0
-			"Spread Angle" = 5.0
-			#Fire pattern for scattergun
-			#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
-			"Shot Fire Pattern" = "HORIZONTAL"
-			#Gun shot size for scattergun
-			# Default: 1.2
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Size" = 1.2
-			#Gun shot distance for scattergun
-			# Default: 1.0
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Distance" = 1.0
-			#Shake intensity for scattergun
-			# Default: 1.5
-			# Range: 0.0 ~ 50.0
-			"Shake Intensity" = 1.5
-			#Shake reset delay for scattergun
-			# Default: 6
-			# Range: 0 ~ 50
-			"Shake Reset Delay" = 6
-			#Recoil distance for scattergun
-			# Default: 0.7
-			# Range: 0.0 ~ 50.0
-			Recoil = 0.7
-			#Vertical recoil multiplier for scattergun
-			# Default: 0.35
-			# Range: 0.0 ~ 2.0
-			"Recoil Vertical Multiplier" = 0.35
-			#Crouch recoil reduction for scattergun
-			# Default: 0.5
-			# Range: 0.0 ~ 1.0
-			"Recoil Crouch Reduction" = 0.5
-			#X rotation recoil intensity for scattergun
-			# Default: 2.5
-			# Range: 0.0 ~ 10.0
-			"Recoil Pitch Kick" = 2.5
-			#Projectile base speed for scattergun
-			# Default: 3.8
-			# Range: 0.1 ~ 50.0
-			"Projectile Speed" = 3.8
-			#Muzzle modifier for scattergun
-			# Default: 1.8
-			# Range: 0.1 ~ 5.0
-			"Muzzle Modifier" = 1.8
-			#Magazine modifier for scattergun
-			# Default: 2.5
-			# Range: 0.1 ~ 5.0
-			"Magazine Modifier" = 2.5
-			#Ammo consumed per shot for scattergun
-			# Default: 2
-			# Range: 1 ~ 64
-			"Ammo Consumption" = 2
-			#Attachment items consumed per scattergun shot
-			# Default: 2
-			# Range: 1 ~ 64
-			"Attachment Consumption" = 2
-
-		["Gun System Common Handler"."Gun Shoot Settings"."Shotgun Shoot"]
-			#Projectile damage modifier for shotgun
-			# Default: 5.5
-			# Range: 0.0 ~ 100.0
-			"Projectile Damage Modifier" = 5.5
-			#Projectile knockback modifier for shotgun
-			# Default: 0.5
-			# Range: 0.0 ~ 5.0
-			"Projectile Knockback Modifier" = 0.5
-			#Projectile piercing modifier for shotgun
-			# Default: 1
-			# Range: 0 ~ 10
-			"Projectile Piercing Modifier" = 1
-			#Number of projectiles fired per shot (shotgun)
-			# Default: 4
-			# Range: 1 ~ 100
-			"Projectile Count" = 4
-			#Inaccuracy for shotgun
-			# Default: 0.05
-			# Range: 0.0 ~ 20.0
-			Inaccuracy = 0.05
-			#Cooldown for shotgun in ticks
-			# Default: 60
-			# Range: 0 ~ 72000
-			Cooldown = 60
-			#Offhand cooldown for shotgun
-			# Default: 20
-			# Range: 0 ~ 72000
-			"Offhand Cooldown" = 20
-			#Default modifier for shotgun
-			# Default: 1.0
-			# Range: 0.1 ~ 10.0
-			"Default Modifier" = 1.0
-			#Spread angle for shotgun shot
-			# Default: 5.5
-			# Range: 0.0 ~ 45.0
-			"Spread Angle" = 5.5
-			#Fire pattern for shotgun
-			#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
-			"Shot Fire Pattern" = "HORIZONTAL"
-			#Gun shot size for shotgun
-			# Default: 1.5
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Size" = 1.5
-			#Gun shot distance for shotgun
-			# Default: 1.2
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Distance" = 1.2
-			#Shake intensity for shotgun
-			# Default: 2.5
-			# Range: 0.0 ~ 50.0
-			"Shake Intensity" = 2.5
-			#Shake reset delay for shotgun
-			# Default: 8
-			# Range: 0 ~ 50
-			"Shake Reset Delay" = 8
-			#Recoil distance for shotgun
-			# Default: 1.8
-			# Range: 0.0 ~ 50.0
-			Recoil = 1.8
-			#Vertical recoil multiplier for shotgun
-			# Default: 0.5
-			# Range: 0.0 ~ 2.0
-			"Recoil Vertical Multiplier" = 0.5
-			#Crouch recoil reduction for shotgun
-			# Default: 0.4
-			# Range: 0.0 ~ 1.0
-			"Recoil Crouch Reduction" = 0.4
-			#X rotation recoil intensity for shotgun
-			# Default: 3.5
-			# Range: 0.0 ~ 12.0
-			"Recoil Pitch Kick" = 3.5
-			#Projectile base speed for shotgun
-			# Default: 3.5
-			# Range: 0.1 ~ 50.0
-			"Projectile Speed" = 3.5
-			#Muzzle modifier for shotgun
-			# Default: 2.0
-			# Range: 0.1 ~ 5.0
-			"Muzzle Modifier" = 2.0
-			#Magazine modifier for shotgun
-			# Default: 3.0
-			# Range: 0.1 ~ 5.0
-			"Magazine Modifier" = 3.0
-			#Ammo consumed per shot for shotgun
-			# Default: 1
-			# Range: 1 ~ 64
-			"Ammo Consumption" = 1
-			#Attachment items consumed per shotgun shot
-			# Default: 1
-			# Range: 1 ~ 64
-			"Attachment Consumption" = 1
-
-		["Gun System Common Handler"."Gun Shoot Settings"."Revolver Shoot"]
-			#Projectile damage modifier for revolver
-			# Default: 7.0
-			# Range: 0.0 ~ 100.0
-			"Projectile Damage Modifier" = 7.0
-			#Projectile knockback modifier for revolver
-			# Default: 0.1
-			# Range: 0.0 ~ 5.0
-			"Projectile Knockback Modifier" = 0.1
-			#Projectile piercing modifier for revolver
-			# Default: 0
-			# Range: 0 ~ 10
-			"Projectile Piercing Modifier" = 0
-			#Number of projectiles fired per shot (revolver)
-			# Default: 1
-			# Range: 1 ~ 100
-			"Projectile Count" = 1
-			#Inaccuracy for revolver
-			# Default: 0.0
-			# Range: 0.0 ~ 10.0
-			Inaccuracy = 0.0
-			#Cooldown for revolver in ticks
-			# Default: 25
-			# Range: 0 ~ 72000
-			Cooldown = 25
-			#Offhand cooldown for revolver
-			# Default: 8
-			# Range: 0 ~ 72000
-			"Offhand Cooldown" = 8
-			#Default modifier for revolver
-			# Default: 1.0
-			# Range: 0.1 ~ 10.0
-			"Default Modifier" = 1.0
-			#Spread angle for revolver shot
-			# Default: 0.0
-			# Range: 0.0 ~ 30.0
-			"Spread Angle" = 0.0
-			#Fire pattern for revolver
-			#Allowed Values: DEFAULT, HORIZONTAL, VERTICAL, CIRCLE, HEART
-			"Shot Fire Pattern" = "DEFAULT"
-			#Gun shot size for revolver
-			# Default: 0.8
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Size" = 0.8
-			#Gun shot distance for revolver
-			# Default: 0.8
-			# Range: 0.1 ~ 50.0
-			"Gun Shot Distance" = 0.8
-			#Shake intensity for revolver
-			# Default: 0.6
-			# Range: 0.0 ~ 50.0
-			"Shake Intensity" = 0.6
-			#Shake reset delay for revolver
-			# Default: 5
-			# Range: 0 ~ 50
-			"Shake Reset Delay" = 5
-			#Recoil distance for revolver
-			# Default: 0.6
-			# Range: 0.0 ~ 50.0
-			Recoil = 0.6
-			#Vertical recoil multiplier for revolver
-			# Default: 0.5
-			# Range: 0.0 ~ 2.0
-			"Recoil Vertical Multiplier" = 0.5
-			#Crouch recoil reduction for revolver
-			# Default: 0.6
-			# Range: 0.0 ~ 1.0
-			"Recoil Crouch Reduction" = 0.6
-			#X rotation recoil intensity for revolver
-			# Default: 2.0
-			# Range: 0.0 ~ 10.0
-			"Recoil Pitch Kick" = 2.0
-			#Projectile base speed for revolver
-			# Default: 4.8
-			# Range: 0.1 ~ 50.0
-			"Projectile Speed" = 4.8
-			#Muzzle modifier for revolver
-			# Default: 1.5
-			# Range: 0.1 ~ 5.0
-			"Muzzle Modifier" = 1.5
-			#Magazine modifier for revolver
-			# Default: 2.0
-			# Range: 0.1 ~ 5.0
-			"Magazine Modifier" = 2.0
-			#Ammo consumed per shot for revolver
-			# Default: 1
-			# Range: 1 ~ 64
-			"Ammo Consumption" = 1
-			#Attachment items consumed per revolver shot
-			# Default: 1
-			# Range: 1 ~ 64
-			"Attachment Consumption" = 1
 
 		["Item Features Handler".Weapons.Trident]
 			#Trident use custom throw instead of vanilla

@@ -1,22 +1,19 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 123 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 124 mods (1 dependency), 4 resource packs
 
 ## Contents
 
+- [Abridged](https://modrinth.com/project/abridged) `2.0.2-neoforge-21.1`
 - [AI Improvements: Performance Tuning](https://modrinth.com/project/ai-improvements) `0.5.3`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
-- [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
+- [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.3`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
-- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Armored Foes](https://modrinth.com/project/armored-foes) `21.1.0`
-- [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.8`
-- [Backported Spears](https://modrinth.com/project/backported-spears) `1.8.0`
-- [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
+- [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.9`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
-- [Better Safe Bed](https://modrinth.com/project/better-safe-bed) `1.21-16`
 - [Big Brain](https://modrinth.com/project/big-brain) `2.2.8`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
@@ -28,64 +25,67 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
-- [Comics Bubbles Chat](https://modrinth.com/project/comics-bubbles-chat) `1.4.0`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
-- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.1`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.2`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Crafting Tweaks](https://modrinth.com/project/crafting-tweaks) `21.1.11+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
-- [Create Big Cannons: Equally Opposite](https://modrinth.com/project/create-big-cannons-equally-opposite) `0.1.3`
 - [Create Picky Wheels](https://modrinth.com/project/create-picky-wheels) `1.21.1-6.0.9-6`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
-- [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.4`
-- [Create: Bits 'n' Tracks](https://modrinth.com/project/create-bits-n-tracks) `1.0.3.1`
-- [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
+- [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.5`
 - [Create: Rock & Stone](https://modrinth.com/project/create-rns) `v1.3.1-1.21.1-6`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Death Finder](https://modrinth.com/project/death-finder) `21.1.2`
-- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.2-1.21.1`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.3-1.21.1`
+- [Elysium API](https://modrinth.com/project/elysium-api) `1.21.1-2.0.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
-- [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.11.2`
 - [Envelope](https://modrinth.com/project/envelope) `0.7.5`
-- [Experience Obliterator](https://modrinth.com/project/experience-obliterator) `1.0.1-1.21.1-neoforge`
-- [Exposure](https://modrinth.com/project/exposure) `1.9.18`
+- [Explorify](https://modrinth.com/project/explorify) `v1.6.5`
+- [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure: Detective](https://modrinth.com/project/exposure-detective) `1.0.1`
 - [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
 - [Farcr's Re-Create](https://modrinth.com/project/farcrs-re-create) `V1.6`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.17.0-1.21.1-neoforge`
-- [Flerovium](https://modrinth.com/project/flerovium) `1.1.3`
+- Fast Leaf Decay `FastLeafDecay-35.jar` (curseforge)
+- [Flerovium](https://modrinth.com/project/flerovium) `1.2.0`
 - [Frame by Frame](https://modrinth.com/project/frame-by-frame) `0.9.321`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
+- [Handheld Moon - (with flashlight)](https://modrinth.com/project/handheld-moon) `1.1.0-fix`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
-- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.3+1.21.1-neoforge`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
+- [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
+- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.5+1.21.1-neoforge`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
-- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.18+neoforge-1.21.1`
-- [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.1.0`
-- [Iron's Spells 'n Spellbooks](https://modrinth.com/project/irons-spells-n-spellbooks) `1.21.1-3.16.3`
-- [IronSable](https://modrinth.com/project/ironsable) `1.2.0`
-- [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.0+1.21.1-neoforge`
-- [Jaam's Weaponry](https://modrinth.com/project/jaams-weaponry) `1.1.2`
+- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.19+neoforge-1.21.1`
+- [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.0.1.1`
+- [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.2.0`
+- [Jaam's Weaponry](https://modrinth.com/project/jaams-weaponry) `1.1.3`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Jaden's Nether Expansion](https://modrinth.com/project/jadens-nether-expansion) `2.4.1`
+- [KleeSlabs](https://modrinth.com/project/kleeslabs) `21.1.11+neoforge-1.21.1`
 - [Lamb Lanterns](https://modrinth.com/project/lamb-lanterns) `1.2.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0+beta6-neoforge-21.1`
+- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0-neoforge-21.1`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [Locked In Slots](https://modrinth.com/project/locked-in-slots) `21.1.0`
+- [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.4.0-1.21.1`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.6.5`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.5`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.0`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
@@ -95,13 +95,13 @@
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.11+1.21.1-neoforge`
 - [Peaceless](https://modrinth.com/project/peaceless) `1.0`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
-- [playerAnimator](https://modrinth.com/project/playeranimator) `2.0.4+1.21.1-forge`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-4.4.0`
-- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.60`
+- [Philips Ruins](https://modrinth.com/project/philips-ruins) `1.21.1-2.0`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-4.5.3`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.62`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Ready Player Fun](https://modrinth.com/project/ready-player-fun) `1.21.1-3.0.1.5-NEOFORGE`
 - [Realistic Nametag](https://modrinth.com/project/realistic-nametag) `1.3.1`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.3.3-1.21.1-neoforge`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.3+1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
@@ -109,15 +109,15 @@
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
-- [SeeU](https://modrinth.com/project/seeu) `0.9.1.1`
-- [Separated Leaves](https://modrinth.com/project/separatedleaves) `2.6.1-neoforge-1.21.1`
-- [Shield Expansion](https://modrinth.com/project/shield-expansion) `1.4.3`
 - Signal Flares `signal_flares-2.0.1-neoforge-1.21.1.jar` (curseforge)
-- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.23`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+1.21-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.1`
+- [Spawn](https://modrinth.com/project/spawn-mod) `4.0.8`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
-- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.13.8`
+- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.14.1`
+- [Structory](https://modrinth.com/project/structory) `1.3.17`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
@@ -127,9 +127,10 @@
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [True Darkness Biomes](https://modrinth.com/project/true-darkness-biomes) `1.2.1`
+- [Veil](https://modrinth.com/project/veil) `4.5.1`
 - [Vercte's Satchels](https://modrinth.com/project/vercte-satchels) `1.2.0`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
-- [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.2-1.21.1-neoforge`
+- [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.3+1.21.1-neoforge`
 
 _Generated by packweave._

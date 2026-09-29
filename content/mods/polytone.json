@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "3qAYkBMB",
       "slug": "polytone",
-      "versionId": "n31RbK1f",
-      "versionNumber": "1.21-4.4.0",
-      "filename": "polytone-1.21-4.4.0-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/n31RbK1f/polytone-1.21-4.4.0-neoforge.jar",
-      "sha1": "dc5e9c7ae01c4d1748c4b3ba223e8082144e0b29",
-      "sha512": "fe05952ddffa47b4e0eabd6e6e7315b0ffee966fa016e5e34bb074d17accaffd07b418fc5e7ca69de90ae9d0be3c6a7144e03c334bd15dbeea731f2438aadf6f",
-      "fileSize": 1639722
+      "versionId": "ROLbT0WQ",
+      "versionNumber": "1.21-4.5.3",
+      "filename": "polytone-1.21-4.5.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/ROLbT0WQ/polytone-1.21-4.5.3-neoforge.jar",
+      "sha1": "8410b11846c7a45f73f8c5ae613ac92bfc8fd733",
+      "sha512": "726b5476c6fb3744af4418afdefaa655a555e70d3e03aafc7f81d2bea878d1c2dea0d61ac0854b0cd4627a872a93020dd1c643bf4e16f02e656bd8fdbf6b5215",
+      "fileSize": 1643364
     }
   },
   "dependents": [],
