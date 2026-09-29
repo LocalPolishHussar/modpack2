@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 123 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 122 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -61,7 +61,6 @@
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
-- [Handheld Moon - (with flashlight)](https://modrinth.com/project/handheld-moon) `1.1.0-fix`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
 - [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`

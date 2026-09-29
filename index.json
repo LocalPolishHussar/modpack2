@@ -221,10 +221,6 @@
       "sha1": "c88db3355d51cffce7ad50cdb8bfab5745a90539"
     },
     {
-      "path": "content/mods/handheld-moon.json",
-      "sha1": "f71d65262baa6374cc3015f66cc740832c18c44e"
-    },
-    {
       "path": "content/mods/horseman.json",
       "sha1": "76b2605968233b5808d19185ffee1eb9f629a1c8"
     },
@@ -286,7 +282,7 @@
     },
     {
       "path": "content/mods/lambdynamiclights.json",
-      "sha1": "fc70a7277ebb099b852a8b2ec0cc99f88dbb873c"
+      "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
     },
     {
       "path": "content/mods/lever-drugster.json",
