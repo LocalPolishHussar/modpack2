@@ -1,0 +1,22 @@
+{
+  "name": "Better Cloud Shadows",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1704307",
+      "slug": "better-cloud-shadows",
+      "versionId": "9017093",
+      "versionNumber": "Better Cloud Shadows Neoforge 1.21.1 - 1.3.5",
+      "filename": "better_cloud_shadows-neoforge-1.21.1-1.3.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9017/93/better_cloud_shadows-neoforge-1.21.1-1.3.5.jar",
+      "sha1": "0e075888522dc259c1a7b8638fad6c16f02ec1a9",
+      "fileSize": 134157
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

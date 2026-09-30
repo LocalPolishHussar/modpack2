@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 124 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 125 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -13,6 +13,7 @@
 - [Armored Foes](https://modrinth.com/project/armored-foes) `21.1.0`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.9`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
+- Better Cloud Shadows `Better Cloud Shadows Neoforge 1.21.1 - 1.3.5` (curseforge)
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
 - [Big Brain](https://modrinth.com/project/big-brain) `2.2.8`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
