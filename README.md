@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 122 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 124 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -43,6 +43,7 @@
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Death Finder](https://modrinth.com/project/death-finder) `21.1.2`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.3-1.21.1`
+- [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
 - [Elysium API](https://modrinth.com/project/elysium-api) `1.21.1-2.0.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.2`
@@ -120,6 +121,7 @@
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
+- [Tax Free Levels](https://modrinth.com/project/tax-free-levels) `1.4.25`
 - [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`

@@ -82,7 +82,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "c449fa618cf87afd5dfbe43e4f7ac8f79ecc92fa"
+      "sha1": "09068234c3641e154e035d3edc6b0a6893687ea3"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -159,6 +159,10 @@
     {
       "path": "content/mods/distanthorizons.json",
       "sha1": "90c79d376f34b04a991e13c3d99747481236c2c7"
+    },
+    {
+      "path": "content/mods/easy-anvils.json",
+      "sha1": "931e34216a17ad900d8530e3b3d7ca15b66c25cc"
     },
     {
       "path": "content/mods/elysium-api.json",
@@ -366,7 +370,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "b895019053abd5e89c5f208a88115a27bc97088a"
+      "sha1": "78787fdfaecc77074caa39b435461d929fc527b2"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -451,6 +455,10 @@
     {
       "path": "content/mods/supplementaries.json",
       "sha1": "05fdfec46ab632eb2e260bf4cd71b767daee5b89"
+    },
+    {
+      "path": "content/mods/tax-free-levels.json",
+      "sha1": "88c9f0385377223cefbe70d672f323657b11c53e"
     },
     {
       "path": "content/mods/teallib.json",
@@ -582,7 +590,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "a1d86ca806b26d347f02178ca6dcb421a0585eb9"
+      "sha1": "a9fcbfa8f40a1ffb3328c0c6e45bfa20840209e0"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -1443,30 +1451,6 @@
     {
       "path": "overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
-    },
-    {
-      "path": "overrides/config/voicechat/category-volumes.properties",
-      "sha1": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac"
-    },
-    {
-      "path": "overrides/config/voicechat/player-volumes.properties",
-      "sha1": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae"
-    },
-    {
-      "path": "overrides/config/voicechat/translations.properties",
-      "sha1": "51ed6d74ce390b2219a85fb3cfdad19c85039d79"
-    },
-    {
-      "path": "overrides/config/voicechat/username-cache.json",
-      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
-    },
-    {
-      "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "ca078106642d84b75ff8128574220f54b6cf40fd"
-    },
-    {
-      "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "8f94d00c2a41fc01a2455aa6c0fa0a7acc014acd"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",

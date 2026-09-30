@@ -1,0 +1,23 @@
+{
+  "name": "Tax Free Levels",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jCBrrLTs",
+      "slug": "tax-free-levels",
+      "versionId": "b81Q74XX",
+      "versionNumber": "1.4.25",
+      "filename": "TaxFreeLevels-1.4.25-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jCBrrLTs/versions/b81Q74XX/TaxFreeLevels-1.4.25-neoforge-1.21.1.jar",
+      "sha1": "cad7df48510d9622867131342930437c0f99af64",
+      "sha512": "7db422ddb41948d1ea776011645e008a39b6e7be5c0fae6e127178b5e26ab86e2b791f8e65f8494d55c6f349fc83bcc1774b9e9eae54d8a427bb71ba3cf5e500",
+      "fileSize": 38617
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
