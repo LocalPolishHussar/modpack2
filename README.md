@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 127 mods (2 dependencies), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 129 mods, 4 resource packs
 
 ## Contents
 
@@ -12,6 +12,7 @@
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Armored Foes](https://modrinth.com/project/armored-foes) `21.1.0`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.9`
+- [Balm](https://modrinth.com/project/balm) `21.0.66+neoforge-1.21.1`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
 - Better Cloud Shadows `Better Cloud Shadows Neoforge 1.21.1 - 1.3.5` (curseforge)
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
@@ -71,6 +72,7 @@
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
 - [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.19+neoforge-1.21.1`
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/project/iris-flw-compat) `1.21.1+2.4.0-release`
+- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.0.1.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.2.0`
 - [Jaam's Weaponry](https://modrinth.com/project/jaams-weaponry) `1.1.3`

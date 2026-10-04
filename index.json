@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/balm.json",
-      "sha1": "dc24cfb7a442e9bf0ac1f6c530a7c4dde76c9445"
+      "sha1": "956f38e13ac1f4020665db548041701edcaa95aa"
     },
     {
       "path": "content/mods/barehanded.json",
@@ -257,12 +257,8 @@
       "sha1": "6d54d2efdee7d20255b349db485044429a98ea96"
     },
     {
-      "path": "content/mods/iris-flw-compat.json",
-      "sha1": "3d24a880da39a95ddd0141ba1337e5993792e1bb"
-    },
-    {
       "path": "content/mods/iris.json",
-      "sha1": "b7a226ddddb1405ad51dc949233be69ad9ab036f"
+      "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
     },
     {
       "path": "content/mods/irons-artifice.json",
@@ -446,7 +442,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "86d544c1a298c5ee4559cc09c89d6be3102edc7f"
+      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",
