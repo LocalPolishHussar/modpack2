@@ -118,7 +118,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "cffe137cb7f47d7d2ae56395949723e63704f95b"
+      "sha1": "48b9f74b6f98e4eaac2b5664eb7d4fe6da2f58dc"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -133,6 +133,10 @@
       "sha1": "657709b10275fa332c45cefcbb2605bea2244de7"
     },
     {
+      "path": "content/mods/create-deep-seas.json",
+      "sha1": "92d4c0ef1d013a62cc3ff8de5263efc66ba33430"
+    },
+    {
       "path": "content/mods/create-picky-wheels.json",
       "sha1": "9d88de5218f76550b840fe1ebde69350ee14e4f3"
     },
@@ -142,7 +146,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "aea0d62cbdecbb108624a4c4a96941b0904ab00f"
+      "sha1": "b463f65e67c548c61ce5aba41c7974915d2350ac"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -210,7 +214,7 @@
     },
     {
       "path": "content/mods/frame-by-frame.json",
-      "sha1": "a1cb41fc41fc2f245ab29e1be1dd9d24112f83a2"
+      "sha1": "b2d40286394025c23a742684b8ade079b972a0ab"
     },
     {
       "path": "content/mods/geckolib.json",
@@ -251,6 +255,14 @@
     {
       "path": "content/mods/inventory-essentials.json",
       "sha1": "6d54d2efdee7d20255b349db485044429a98ea96"
+    },
+    {
+      "path": "content/mods/iris-flw-compat.json",
+      "sha1": "3d24a880da39a95ddd0141ba1337e5993792e1bb"
+    },
+    {
+      "path": "content/mods/iris.json",
+      "sha1": "b7a226ddddb1405ad51dc949233be69ad9ab036f"
     },
     {
       "path": "content/mods/irons-artifice.json",
@@ -414,7 +426,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "f6719abb48322ee0b2406d4d429e0a4d6d67798b"
+      "sha1": "3353d223fd1aa211c3818ee53aab6851d79dc74b"
     },
     {
       "path": "content/mods/searchables.json",
@@ -434,7 +446,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
+      "sha1": "86d544c1a298c5ee4559cc09c89d6be3102edc7f"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",

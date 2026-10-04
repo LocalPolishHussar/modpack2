@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "geHonYe9",
       "slug": "frame-by-frame",
-      "versionId": "rLo1ZTPw",
-      "versionNumber": "0.9.321",
-      "filename": "frame-by-frame-0.9.321.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/geHonYe9/versions/rLo1ZTPw/frame-by-frame-0.9.321.jar",
-      "sha1": "1e585fd3562a634ff995a382899abbfa20451f05",
-      "sha512": "792e91b14a76b7d3b5fe9819c0e00b4acd0cac2f8546c0161e004938f5013c994ebe71b66bc9dd8b0391a070b6d552753bde83897d640f51c0183476fa0dd3dc",
-      "fileSize": 1198780
+      "versionId": "NWRfjY4j",
+      "versionNumber": "0.9.349",
+      "filename": "frame-by-frame-0.9.349.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/geHonYe9/versions/NWRfjY4j/frame-by-frame-0.9.349.jar",
+      "sha1": "9f79a4cf400d36cf06ea95e98035cfdb6d8066f9",
+      "sha512": "1bd6ea05970508835a63e0255a3a291de16e0e467320fe88de10411d718be319a6938ef92510f60b62732dd99107c8dd41be3fd401b7cb20a180691e515a648b",
+      "fileSize": 1257793
     }
   },
   "dependents": [],

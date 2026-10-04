@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 125 mods (1 dependency), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 127 mods (2 dependencies), 4 resource packs
 
 ## Contents
 
@@ -35,6 +35,7 @@
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
+- [Create Deep Seas](https://modrinth.com/project/create-deep-seas) `3.3.0`
 - [Create Picky Wheels](https://modrinth.com/project/create-picky-wheels) `1.21.1-6.0.9-6`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.5`
@@ -58,7 +59,7 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - Fast Leaf Decay `FastLeafDecay-35.jar` (curseforge)
 - [Flerovium](https://modrinth.com/project/flerovium) `1.2.0`
-- [Frame by Frame](https://modrinth.com/project/frame-by-frame) `0.9.321`
+- [Frame by Frame](https://modrinth.com/project/frame-by-frame) `0.9.349`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
@@ -69,6 +70,7 @@
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.5+1.21.1-neoforge`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
 - [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.19+neoforge-1.21.1`
+- [Iris & Oculus Flywheel Compat](https://modrinth.com/project/iris-flw-compat) `1.21.1+2.4.0-release`
 - [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.0.1.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.2.0`
 - [Jaam's Weaponry](https://modrinth.com/project/jaams-weaponry) `1.1.3`
