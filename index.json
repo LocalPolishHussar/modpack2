@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/burnt-basic.json",
-      "sha1": "91d010761cdccfe025b5dca8abdbd69cf49cf026"
+      "sha1": "188d716ad054be60b74f111fdfc5daa7e7a458ca"
     },
     {
       "path": "content/mods/c2me-neoforge.json",
@@ -102,7 +102,7 @@
     },
     {
       "path": "content/mods/contraption-lights.json",
-      "sha1": "f2193e1ae51b2cf4f8a6ff0bd1fe1d911be06458"
+      "sha1": "2829ea079327165d085c137fd0ed74c733c032f7"
     },
     {
       "path": "content/mods/controlling.json",
@@ -226,7 +226,7 @@
     },
     {
       "path": "content/mods/glaidens-audio.json",
-      "sha1": "a29a58ac846e73b5aafd5adcdd11bdb066677060"
+      "sha1": "f6c77b468a9ef53365196bc6daf7c3e7d76a3453"
     },
     {
       "path": "content/mods/glows.json",
@@ -254,7 +254,7 @@
     },
     {
       "path": "content/mods/inventory-essentials.json",
-      "sha1": "6d54d2efdee7d20255b349db485044429a98ea96"
+      "sha1": "f3b4d4fa75cbe87581e2555bffe088c01dcce38b"
     },
     {
       "path": "content/mods/iris.json",
@@ -334,7 +334,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "57867c292f33ee2bc68b6a4e8b26137c5b43024d"
+      "sha1": "1aee1f72d12fd798d06de110ec229179484985fe"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -398,7 +398,7 @@
     },
     {
       "path": "content/mods/reconnectible-chains.json",
-      "sha1": "0d24c7bd3fa1b467f636a0a298a7090dcc5a5e09"
+      "sha1": "f6f7e908123a20bd69382f340371a65e36c1c8e0"
     },
     {
       "path": "content/mods/reliable-backpacks.json",
@@ -422,7 +422,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "3353d223fd1aa211c3818ee53aab6851d79dc74b"
+      "sha1": "04a1a9148eb550f4feb489fc07b27c98abe16ef5"
     },
     {
       "path": "content/mods/searchables.json",
@@ -454,7 +454,7 @@
     },
     {
       "path": "content/mods/streams-reflowing.json",
-      "sha1": "7abaf1cb1ca6c8e7100a7f426d4b105d55aab172"
+      "sha1": "9ebb5d3f5b59500e8a8f95dde36993779ea73d37"
     },
     {
       "path": "content/mods/structory.json",

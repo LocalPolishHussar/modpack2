@@ -20,7 +20,7 @@
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
-- [Burnt](https://modrinth.com/project/burnt-basic) `1.10.5`
+- [Burnt](https://modrinth.com/project/burnt-basic) `1.10.5.2`
 - [Chalk](https://modrinth.com/project/chalk-mod) `2.0.2`
 - [Chalk: Chars](https://modrinth.com/project/chalk-chars) `1.0.0`
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
@@ -29,7 +29,7 @@
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
-- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.2`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.3`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Crafting Tweaks](https://modrinth.com/project/crafting-tweaks) `21.1.11+neoforge-1.21.1`
@@ -62,7 +62,7 @@
 - [Flerovium](https://modrinth.com/project/flerovium) `1.2.0`
 - [Frame by Frame](https://modrinth.com/project/frame-by-frame) `0.9.349`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
-- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.0`
+- [Glaiden's Audio](https://modrinth.com/project/glaidens-audio) `1.5.1`
 - [Glaiden's audio Aeronautics compat](https://modrinth.com/project/glaidens-audio-aeronautics-compat) `1.0.0`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
@@ -70,7 +70,7 @@
 - [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.5+1.21.1-neoforge`
 - [Incubation](https://modrinth.com/project/incubation) `5.0.2`
-- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.19+neoforge-1.21.1`
+- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.20+neoforge-1.21.1`
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/project/iris-flw-compat) `1.21.1+2.4.0-release`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.0.1.1`
@@ -90,7 +90,7 @@
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.4.0-1.21.1`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.5`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.0`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
@@ -106,11 +106,11 @@
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Ready Player Fun](https://modrinth.com/project/ready-player-fun) `1.21.1-3.0.1.5-NEOFORGE`
 - [Realistic Nametag](https://modrinth.com/project/realistic-nametag) `1.3.1`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.3+1.21.1-neoforge`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+1.21.1-neoforge`
 - [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
-- [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
+- [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
@@ -121,7 +121,7 @@
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.1`
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.8`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
-- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.14.1`
+- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.14.4`
 - [Structory](https://modrinth.com/project/structory) `1.3.17`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
