@@ -349,6 +349,10 @@
       "sha1": "45dbd694a784f53d50b8672ab94365dd8becf967"
     },
     {
+      "path": "content/mods/no-chat-restrictions.json",
+      "sha1": "ba14800355bfee964406cda1d2d6d1ba21acac80"
+    },
+    {
       "path": "content/mods/no-mans-land.json",
       "sha1": "fe23ad787f5e841440facc567bbbefd09705ff69"
     },

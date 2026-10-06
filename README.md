@@ -1,6 +1,6 @@
 # . e
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 129 mods, 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.252**, 130 mods, 4 resource packs
 
 ## Contents
 
@@ -94,6 +94,7 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.3`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Open Together](https://modrinth.com/project/open-together) `21.1.2`
 - [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
